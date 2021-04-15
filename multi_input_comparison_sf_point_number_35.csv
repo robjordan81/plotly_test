@@ -1,4 +1,4 @@
-Test,item,result,spec lower,spec upper,range,to lower,to upper,%_from_lim,% from lim up,closest_to_spec
+Test,item,result,spec lower,spec upper,range,to lower,to upper,pc_from_lim,% from lim up,closest_to_spec
 gap creation,1,1.086,1.05,2.5,1.45,0.036,1.414,2.5,97.5,0.025
 gap creation,2,1.113,1.05,2.5,1.45,0.063,1.387,4.3,95.7,0.043
 gap creation,3,1.084,1.05,2.5,1.45,0.034,1.416,2.3,97.7,0.023
