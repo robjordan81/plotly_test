@@ -1,4 +1,4 @@
-Test,Item,result,Syringe type,Test_conditions,Device
+Test,Item,result,syringe_type,Test_conditions,Device
 Bluetooth button press,1,1.0665,N/A,Standard,Connected
 Bluetooth button press,2,1.158,N/A,Standard,Connected
 Bluetooth button press,3,1.1295,N/A,Standard,Connected
