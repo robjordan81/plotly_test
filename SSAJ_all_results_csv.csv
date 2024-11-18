@@ -34,41 +34,41 @@ Bluetooth button press,32,1.077,N/A,Standard,Connected
 Bluetooth button press,33,1.152,N/A,Standard,Connected
 Bluetooth button press,34,1.146,N/A,Standard,Connected
 Bluetooth button press,35,1.304,N/A,Standard,Connected
-Cap Removal Force,36,11.7875,N/A,Standard,Connected
-Cap Removal Force,37,11.7875,N/A,Standard,Connected
-Cap Removal Force,38,11.4625,N/A,Standard,Connected
-Cap Removal Force,39,10.925,N/A,Standard,Connected
-Cap Removal Force,40,10.175,N/A,Standard,Connected
-Cap Removal Force,41,12.735,N/A,Standard,Connected
-Cap Removal Force,42,10.8375,N/A,Standard,Connected
-Cap Removal Force,43,11.3125,N/A,Standard,Connected
-Cap Removal Force,44,10.975,N/A,Standard,Connected
-Cap Removal Force,45,11.9125,N/A,Standard,Connected
-Cap Removal Force,46,13.455,N/A,Standard,Connected
-Cap Removal Force,47,10.0625,N/A,Standard,Connected
-Cap Removal Force,48,10.925,N/A,Standard,Connected
-Cap Removal Force,49,10.8375,N/A,Standard,Connected
-Cap Removal Force,50,10.6375,N/A,Standard,Connected
-Cap Removal Force,51,10.825,N/A,Standard,Connected
-Cap Removal Force,52,7.664,N/A,Standard,Connected
-Cap Removal Force,53,11.4125,N/A,Standard,Connected
-Cap Removal Force,54,12.3125,N/A,Standard,Connected
-Cap Removal Force,55,11.2375,N/A,Standard,Connected
-Cap Removal Force,56,12.4125,N/A,Standard,Connected
-Cap Removal Force,57,11.9375,N/A,Standard,Connected
-Cap Removal Force,58,13.77,N/A,Standard,Connected
-Cap Removal Force,59,12.175,N/A,Standard,Connected
-Cap Removal Force,60,13.2,N/A,Standard,Connected
-Cap Removal Force,61,11.175,N/A,Standard,Connected
-Cap Removal Force,62,12.075,N/A,Standard,Connected
-Cap Removal Force,63,9.99,N/A,Standard,Connected
-Cap Removal Force,64,11.65,N/A,Standard,Connected
-Cap Removal Force,65,9.21,N/A,Standard,Connected
-Cap Removal Force,66,9.71,N/A,Standard,Connected
-Cap Removal Force,67,11.7625,N/A,Standard,Connected
-Cap Removal Force,68,11.225,N/A,Standard,Connected
-Cap Removal Force,69,11.5375,N/A,Standard,Connected
-Cap Removal Force,70,12.735,N/A,Standard,Connected
+Cap Removal Force,36,1.224,N/A,Standard,Connected
+Cap Removal Force,37,1.2495,N/A,Standard,Connected
+Cap Removal Force,38,1.278,N/A,Standard,Connected
+Cap Removal Force,39,1.227,N/A,Standard,Connected
+Cap Removal Force,40,1.1865,N/A,Standard,Connected
+Cap Removal Force,41,1.14,N/A,Standard,Connected
+Cap Removal Force,42,1.1985,N/A,Standard,Connected
+Cap Removal Force,43,1.1325,N/A,Standard,Connected
+Cap Removal Force,44,1.182,N/A,Standard,Connected
+Cap Removal Force,45,1.732,N/A,Standard,Connected
+Cap Removal Force,46,1.1745,N/A,Standard,Connected
+Cap Removal Force,47,1.299,N/A,Standard,Connected
+Cap Removal Force,48,1.257,N/A,Standard,Connected
+Cap Removal Force,49,1.191,N/A,Standard,Connected
+Cap Removal Force,50,1.266,N/A,Standard,Connected
+Cap Removal Force,51,1.1205,N/A,Standard,Connected
+Cap Removal Force,52,1.2135,N/A,Standard,Connected
+Cap Removal Force,53,1.218,N/A,Standard,Connected
+Cap Removal Force,54,1.1505,N/A,Standard,Connected
+Cap Removal Force,55,1.158,N/A,Standard,Connected
+Cap Removal Force,56,1.1505,N/A,Standard,Connected
+Cap Removal Force,57,1.1835,N/A,Standard,Connected
+Cap Removal Force,58,1.179,N/A,Standard,Connected
+Cap Removal Force,59,1.115,N/A,Standard,Connected
+Cap Removal Force,60,1.137,N/A,Standard,Connected
+Cap Removal Force,61,1.089,N/A,Standard,Connected
+Cap Removal Force,62,1.224,N/A,Standard,Connected
+Cap Removal Force,63,1.15,N/A,Standard,Connected
+Cap Removal Force,64,1.248,N/A,Standard,Connected
+Cap Removal Force,65,1.165,N/A,Standard,Connected
+Cap Removal Force,66,1.1715,N/A,Standard,Connected
+Cap Removal Force,67,1.161,N/A,Standard,Connected
+Cap Removal Force,68,1.173,N/A,Standard,Connected
+Cap Removal Force,69,1.194,N/A,Standard,Connected
+Cap Removal Force,70,1.1985,N/A,Standard,Connected
 Cap Removal Force,71,10.675,N/a,Standard,
 Force to fire and hold,72,9.725,N/a,Standard,Connected
 Force to fire and hold,73,9.68,N/a,Standard,Connected
@@ -500,76 +500,76 @@ Force to fire and hold,498,11.4,N/A,Accelerated Aged,Connected
 Force to fire and hold,499,10.64,N/A,Accelerated Aged,Connected
 Force to fire and hold,500,11.52,N/A,Accelerated Aged,Connected
 Force to fire and hold,501,10.5,N/A,Accelerated Aged,Connected
-Force to open,502,4.476426388,N/A,Standard,Connected
-Force to open,503,4.491910441,N/A,Standard,Connected
-Force to open,504,4.508942571,N/A,Standard,Connected
-Force to open,505,4.436168177,N/A,Standard,Connected
-Force to open,506,4.563136347,N/A,Standard,Connected
-Force to open,507,4.637480604,N/A,Standard,Connected
-Force to open,508,4.606496466,N/A,Standard,Connected
-Force to open,509,4.380431257,N/A,Standard,Connected
-Force to open,510,4.532173995,N/A,Standard,Connected
-Force to open,511,4.508948326,N/A,Standard,Connected
-Force to open,512,4.515141865,N/A,Standard,Connected
-Force to open,513,4.417592904,N/A,Standard,Connected
-Force to open,514,4.434625034,N/A,Standard,Connected
-Force to open,515,4.412947441,N/A,Standard,Connected
-Force to open,516,4.354108202,N/A,Standard,Connected
-Force to open,517,4.414495929,N/A,Standard,Connected
-Force to open,518,4.544561074,N/A,Standard,Connected
-Force to open,519,4.539915611,N/A,Standard,Connected
-Force to open,520,4.676174706,N/A,Standard,Connected
-Force to open,521,4.436183798,N/A,Standard,Connected
-Force to open,522,4.495023037,N/A,Standard,Connected
-Force to open,523,4.406764178,N/A,Standard,Connected
-Force to open,524,4.505862039,N/A,Standard,Connected
-Force to open,525,4.529082364,N/A,Standard,Connected
-Force to open,526,4.561598959,N/A,Standard,Connected
-Force to open,527,4.468695049,N/A,Standard,Connected
-Force to open,528,4.544576694,N/A,Standard,Connected
-Force to open,529,4.573996314,N/A,Standard,Connected
-Force to open,530,4.529092641,N/A,Standard,Connected
-Force to open,531,4.437737218,N/A,Standard,Connected
-Force to open,532,4.525996077,N/A,Standard,Connected
-Force to open,533,4.812449011,N/A,Standard,Connected
-Force to open,534,4.479544327,N/A,Standard,Connected
-Force to open,535,4.519802949,N/A,Standard,Connected
-Force to open,536,4.64522222,N/A,Standard,Connected
-Force to close,537,8.460136118,N/A,Standard,Connected
-Force to close,538,8.843911105,N/A,Standard,Connected
-Force to close,539,8.763115982,N/A,Standard,Connected
-Force to close,540,8.867216932,N/A,Standard,Connected
-Force to close,541,8.714949674,N/A,Standard,Connected
-Force to close,542,8.791084125,N/A,Standard,Connected
-Force to close,543,8.471012115,N/A,Standard,Connected
-Force to close,544,8.77243897,N/A,Standard,Connected
-Force to close,545,8.665230356,N/A,Standard,Connected
-Force to close,546,9.010161203,N/A,Standard,Connected
-Force to close,547,8.923152397,N/A,Standard,Connected
-Force to close,548,8.570452394,N/A,Standard,Connected
-Force to close,549,8.637263035,N/A,Standard,Connected
-Force to close,550,8.741363986,N/A,Standard,Connected
-Force to close,551,8.705627507,N/A,Standard,Connected
-Force to close,552,8.59220439,N/A,Standard,Connected
-Force to close,553,8.817497615,N/A,Standard,Connected
-Force to close,554,8.654354359,N/A,Standard,Connected
-Force to close,555,8.91538324,N/A,Standard,Connected
-Force to close,556,9.176412122,N/A,Standard,Connected
-Force to close,557,8.596865062,N/A,Standard,Connected
-Force to close,558,8.617064049,N/A,Standard,Connected
-Force to close,559,9.275850756,N/A,Standard,Connected
-Force to close,560,8.828373613,N/A,Standard,Connected
-Force to close,561,9.100278493,N/A,Standard,Connected
-Force to close,562,8.697859172,N/A,Standard,Connected
-Force to close,563,8.624833206,N/A,Standard,Connected
-Force to close,564,8.90139958,N/A,Standard,Connected
-Force to close,565,9.039683178,N/A,Standard,Connected
-Force to close,566,8.52850059,N/A,Standard,Connected
-Force to close,567,9.201271781,N/A,Standard,Connected
-Force to close,568,9.01793036,N/A,Standard,Connected
-Force to close,569,8.598418893,N/A,Standard,Connected
-Force to close,570,8.500534091,N/A,Standard,Connected
-Force to close,571,8.918490903,N/A,Standard,Connected
+Force to open,502,0.649081826,N/A,Standard,Connected
+Force to open,503,0.651327014,N/A,Standard,Connected
+Force to open,504,0.653796673,N/A,Standard,Connected
+Force to open,505,0.643244386,N/A,Standard,Connected
+Force to open,506,0.66165477,N/A,Standard,Connected
+Force to open,507,0.672434688,N/A,Standard,Connected
+Force to open,508,0.667941988,N/A,Standard,Connected
+Force to open,509,0.635162532,N/A,Standard,Connected
+Force to open,510,0.657165229,N/A,Standard,Connected
+Force to open,511,0.653797507,N/A,Standard,Connected
+Force to open,512,0.65469557,N/A,Standard,Connected
+Force to open,513,0.640550971,N/A,Standard,Connected
+Force to open,514,0.64302063,N/A,Standard,Connected
+Force to open,515,0.639877379,N/A,Standard,Connected
+Force to open,516,0.631345689,N/A,Standard,Connected
+Force to open,517,0.64010191,N/A,Standard,Connected
+Force to open,518,0.658961356,N/A,Standard,Connected
+Force to open,519,0.658287764,N/A,Standard,Connected
+Force to open,520,0.678045332,N/A,Standard,Connected
+Force to open,521,0.643246651,N/A,Standard,Connected
+Force to open,522,0.65177834,N/A,Standard,Connected
+Force to open,523,0.638980806,N/A,Standard,Connected
+Force to open,524,0.653349996,N/A,Standard,Connected
+Force to open,525,0.656716943,N/A,Standard,Connected
+Force to open,526,0.661431849,N/A,Standard,Connected
+Force to open,527,0.647960782,N/A,Standard,Connected
+Force to open,528,0.658963621,N/A,Standard,Connected
+Force to open,529,0.663229465,N/A,Standard,Connected
+Force to open,530,0.656718433,N/A,Standard,Connected
+Force to open,531,0.643471897,N/A,Standard,Connected
+Force to open,532,0.656269431,N/A,Standard,Connected
+Force to open,533,0.697805107,N/A,Standard,Connected
+Force to open,534,0.649533927,N/A,Standard,Connected
+Force to open,535,0.655371428,N/A,Standard,Connected
+Force to open,536,0.673557222,N/A,Standard,Connected
+Force to close,537,-1.226719737,N/A,Standard,Connected
+Force to close,538,-1.28236711,N/A,Standard,Connected
+Force to close,539,-1.270651817,N/A,Standard,Connected
+Force to close,540,-1.285746455,N/A,Standard,Connected
+Force to close,541,-1.263667703,N/A,Standard,Connected
+Force to close,542,-1.274707198,N/A,Standard,Connected
+Force to close,543,-1.228296757,N/A,Standard,Connected
+Force to close,544,-1.272003651,N/A,Standard,Connected
+Force to close,545,-1.256458402,N/A,Standard,Connected
+Force to close,546,-1.306473374,N/A,Standard,Connected
+Force to close,547,-1.293857098,N/A,Standard,Connected
+Force to close,548,-1.242715597,N/A,Standard,Connected
+Force to close,549,-1.25240314,N/A,Standard,Connected
+Force to close,550,-1.267497778,N/A,Standard,Connected
+Force to close,551,-1.262315989,N/A,Standard,Connected
+Force to close,552,-1.245869637,N/A,Standard,Connected
+Force to close,553,-1.278537154,N/A,Standard,Connected
+Force to close,554,-1.254881382,N/A,Standard,Connected
+Force to close,555,-1.29273057,N/A,Standard,Connected
+Force to close,556,-1.330579758,N/A,Standard,Connected
+Force to close,557,-1.246545434,N/A,Standard,Connected
+Force to close,558,-1.249474287,N/A,Standard,Connected
+Force to close,559,-1.34499836,N/A,Standard,Connected
+Force to close,560,-1.280114174,N/A,Standard,Connected
+Force to close,561,-1.319540381,N/A,Standard,Connected
+Force to close,562,-1.26118958,N/A,Standard,Connected
+Force to close,563,-1.250600815,N/A,Standard,Connected
+Force to close,564,-1.290702939,N/A,Standard,Connected
+Force to close,565,-1.310754061,N/A,Standard,Connected
+Force to close,566,-1.236632586,N/A,Standard,Connected
+Force to close,567,-1.334184408,N/A,Standard,Connected
+Force to close,568,-1.307599902,N/A,Standard,Connected
+Force to close,569,-1.24677074,N/A,Standard,Connected
+Force to close,570,-1.232577443,N/A,Standard,Connected
+Force to close,571,-1.293181181,N/A,Standard,Connected
 RNS retension overide force,572,84.15000153,N/A,Standard,Connected
 RNS retension overide force,573,84.47499847,N/A,Standard,Connected
 RNS retension overide force,574,84.27500153,N/A,Standard,Connected
@@ -3846,3 +3846,1325 @@ Delivery Time,3844,0.59,1mL Ompi 27G TW,Accelerated Aged,Connected
 Delivery Time,3845,0.41,1mL Ompi 27G TW,Accelerated Aged,Connected
 Delivery Time,3846,0.51,1mL Ompi 27G TW,Accelerated Aged,Connected
 Delivery Time,3847,0.41,1mL Ompi 27G TW,Accelerated Aged,Connected
+Force to activate,3848,9.725,N/A,Standard,Connected
+Force to activate,3849,9.68,N/A,Standard,Connected
+Force to activate,3850,9.95,N/A,Standard,Connected
+Force to activate,3851,10.1,N/A,Standard,Connected
+Force to activate,3852,9.84,N/A,Standard,Connected
+Force to activate,3853,9.9,N/A,Standard,Connected
+Force to activate,3854,9.6,N/A,Standard,Connected
+Force to activate,3855,9.925,N/A,Standard,Connected
+Force to activate,3856,9.92,N/A,Standard,Connected
+Force to activate,3857,9.675,N/A,Standard,Connected
+Force to activate,3858,9.95,N/A,Standard,Connected
+Force to activate,3859,9.96,N/A,Standard,Connected
+Force to activate,3860,9.725,N/A,Standard,Connected
+Force to activate,3861,9.775,N/A,Standard,Connected
+Force to activate,3862,10.4,N/A,Standard,Connected
+Force to activate,3863,9.725,N/A,Standard,Connected
+Force to activate,3864,9.65,N/A,Standard,Connected
+Force to activate,3865,9.76,N/A,Standard,Connected
+Force to activate,3866,9.95,N/A,Standard,Connected
+Force to activate,3867,9.975,N/A,Standard,Connected
+Force to activate,3868,10.425,N/A,Standard,Connected
+Force to activate,3869,10.25,N/A,Standard,Connected
+Force to activate,3870,9.7,N/A,Standard,Connected
+Force to activate,3871,9.875,N/A,Standard,Connected
+Force to activate,3872,10.15,N/A,Standard,Connected
+Force to activate,3873,10.08,N/A,Standard,Connected
+Force to activate,3874,10.3,N/A,Standard,Connected
+Force to activate,3875,9.8,N/A,Standard,Connected
+Force to activate,3876,9.76,N/A,Standard,Connected
+Force to activate,3877,9.84,N/A,Standard,Connected
+Force to activate,3878,9.575,N/A,Standard,Connected
+Force to activate,3879,10,N/A,Standard,Connected
+Force to activate,3880,9.92,N/A,Standard,Connected
+Force to activate,3881,9.56,N/A,Standard,Connected
+Force to activate,3882,9.64,N/A,Standard,Connected
+Force to activate,3883,10.3,N/A,Cool,Connected
+Force to activate,3884,10.25,N/A,Cool,Connected
+Force to activate,3885,10.45,N/A,Cool,Connected
+Force to activate,3886,10.56,N/A,Cool,Connected
+Force to activate,3887,10.32,N/A,Cool,Connected
+Force to activate,3888,10.48,N/A,Cool,Connected
+Force to activate,3889,9.9,N/A,Cool,Connected
+Force to activate,3890,10.28,N/A,Cool,Connected
+Force to activate,3891,10.2,N/A,Cool,Connected
+Force to activate,3892,10.16,N/A,Cool,Connected
+Force to activate,3893,10.225,N/A,Cool,Connected
+Force to activate,3894,10.5,N/A,Cool,Connected
+Force to activate,3895,10.16,N/A,Cool,Connected
+Force to activate,3896,10.075,N/A,Cool,Connected
+Force to activate,3897,10.24,N/A,Cool,Connected
+Force to activate,3898,10.075,N/A,Cool,Connected
+Force to activate,3899,9.9,N/A,Cool,Connected
+Force to activate,3900,10.36,N/A,Cool,Connected
+Force to activate,3901,10.175,N/A,Cool,Connected
+Force to activate,3902,10.4,N/A,Cool,Connected
+Force to activate,3903,10.85,N/A,Cool,Connected
+Force to activate,3904,10.875,N/A,Cool,Connected
+Force to activate,3905,10.16,N/A,Cool,Connected
+Force to activate,3906,10.45,N/A,Cool,Connected
+Force to activate,3907,10.2,N/A,Cool,Connected
+Force to activate,3908,10.375,N/A,Cool,Connected
+Force to activate,3909,10.775,N/A,Cool,Connected
+Force to activate,3910,10.16,N/A,Cool,Connected
+Force to activate,3911,9.85,N/A,Cool,Connected
+Force to activate,3912,9.85,N/A,Cool,Connected
+Force to activate,3913,10.04,N/A,Cool,Connected
+Force to activate,3914,10.175,N/A,Cool,Connected
+Force to activate,3915,10.16,N/A,Cool,Connected
+Force to activate,3916,9.76,N/A,Cool,Connected
+Force to activate,3917,10.16,N/A,Cool,Connected
+Force to activate,3918,9.325,N/A,Warm,Connected
+Force to activate,3919,9.125,N/A,Warm,Connected
+Force to activate,3920,10.15,N/A,Warm,Connected
+Force to activate,3921,10.15,N/A,Warm,Connected
+Force to activate,3922,9.425,N/A,Warm,Connected
+Force to activate,3923,9.75,N/A,Warm,Connected
+Force to activate,3924,9.125,N/A,Warm,Connected
+Force to activate,3925,9.7,N/A,Warm,Connected
+Force to activate,3926,9.425,N/A,Warm,Connected
+Force to activate,3927,9.325,N/A,Warm,Connected
+Force to activate,3928,9.95,N/A,Warm,Connected
+Force to activate,3929,9.5,N/A,Warm,Connected
+Force to activate,3930,9.175,N/A,Warm,Connected
+Force to activate,3931,9.225,N/A,Warm,Connected
+Force to activate,3932,10.15,N/A,Warm,Connected
+Force to activate,3933,9.15,N/A,Warm,Connected
+Force to activate,3934,9,N/A,Warm,Connected
+Force to activate,3935,9.475,N/A,Warm,Connected
+Force to activate,3936,9.225,N/A,Warm,Connected
+Force to activate,3937,9.8,N/A,Warm,Connected
+Force to activate,3938,10.525,N/A,Warm,Connected
+Force to activate,3939,11.15,N/A,Warm,Connected
+Force to activate,3940,9.325,N/A,Warm,Connected
+Force to activate,3941,10.025,N/A,Warm,Connected
+Force to activate,3942,9.975,N/A,Warm,Connected
+Force to activate,3943,9.925,N/A,Warm,Connected
+Force to activate,3944,10.225,N/A,Warm,Connected
+Force to activate,3945,9.25,N/A,Warm,Connected
+Force to activate,3946,9.625,N/A,Warm,Connected
+Force to activate,3947,9.4,N/A,Warm,Connected
+Force to activate,3948,9.2,N/A,Warm,Connected
+Force to activate,3949,9.575,N/A,Warm,Connected
+Force to activate,3950,9.325,N/A,Warm,Connected
+Force to activate,3951,9.125,N/A,Warm,Connected
+Force to activate,3952,9.375,N/A,Warm,Connected
+Force to activate,3953,12,N/A,Life-cycle,Connected
+Force to activate,3954,12.725,N/A,Life-cycle,Connected
+Force to activate,3955,11.025,N/A,Life-cycle,Connected
+Force to activate,3956,13.6,N/A,Life-cycle,Connected
+Force to activate,3957,12.64,N/A,Life-cycle,Connected
+Force to activate,3958,12.925,N/A,Life-cycle,Connected
+Force to activate,3959,12.625,N/A,Life-cycle,Connected
+Force to activate,3960,12.85,N/A,Life-cycle,Connected
+Force to activate,3961,12.575,N/A,Life-cycle,Connected
+Force to activate,3962,12.4,N/A,Life-cycle,Connected
+Force to activate,3963,12.4,N/A,Life-cycle,Connected
+Force to activate,3964,12.075,N/A,Life-cycle,Connected
+Force to activate,3965,13,N/A,Life-cycle,Connected
+Force to activate,3966,12.825,N/A,Life-cycle,Connected
+Force to activate,3967,12.2,N/A,Life-cycle,Connected
+Force to activate,3968,12.625,N/A,Life-cycle,Connected
+Force to activate,3969,12.925,N/A,Life-cycle,Connected
+Force to activate,3970,11.45,N/A,Life-cycle,Connected
+Force to activate,3971,13.075,N/A,Life-cycle,Connected
+Force to activate,3972,13.125,N/A,Life-cycle,Connected
+Force to activate,3973,13.08,N/A,Life-cycle,Connected
+Force to activate,3974,13.825,N/A,Life-cycle,Connected
+Force to activate,3975,11.8,N/A,Life-cycle,Connected
+Force to activate,3976,13.525,N/A,Life-cycle,Connected
+Force to activate,3977,14.225,N/A,Life-cycle,Connected
+Force to activate,3978,14.225,N/A,Life-cycle,Connected
+Force to activate,3979,13.08,N/A,Life-cycle,Connected
+Force to activate,3980,13.975,N/A,Life-cycle,Connected
+Force to activate,3981,13.05,N/A,Life-cycle,Connected
+Force to activate,3982,13.44,N/A,Life-cycle,Connected
+Force to activate,3983,12.52,N/A,Life-cycle,Connected
+Force to activate,3984,13.28,N/A,Life-cycle,Connected
+Force to activate,3985,12.925,N/A,Life-cycle,Connected
+Force to activate,3986,14.45,N/A,Life-cycle,Connected
+Force to activate,3987,12.75,N/A,Life-cycle,Connected
+Force to activate,3988,13.775,N/A,Life-cycle,Connected
+Force to activate,3989,14.6,N/A,Life-cycle,Connected
+Force to activate,3990,12,N/A,Life-cycle,Connected
+Force to activate,3991,14.35,N/A,Life-cycle,Connected
+Force to activate,3992,14.4,N/A,Life-cycle,Connected
+Force to activate,3993,13.625,N/A,Life-cycle,Connected
+Force to activate,3994,14.2,N/A,Life-cycle,Connected
+Force to activate,3995,12.6,N/A,Life-cycle,Connected
+Force to activate,3996,14.025,N/A,Life-cycle,Connected
+Force to activate,3997,14.275,N/A,Life-cycle,Connected
+Force to activate,3998,14.4,N/A,Life-cycle,Connected
+Force to activate,3999,13.96,N/A,Life-cycle,Connected
+Force to activate,4000,13.85,N/A,Life-cycle,Connected
+Force to activate,4001,14.375,N/A,Life-cycle,Connected
+Force to activate,4002,13.075,N/A,Life-cycle,Connected
+Force to activate,4003,14.225,N/A,Life-cycle,Connected
+Force to activate,4004,12.925,N/A,Life-cycle,Connected
+Force to activate,4005,13.8,N/A,Life-cycle,Connected
+Force to activate,4006,13.92,N/A,Life-cycle,Connected
+Force to activate,4007,14.325,N/A,Life-cycle,Connected
+Force to activate,4008,13.95,N/A,Life-cycle,Connected
+Force to activate,4009,12.825,N/A,Life-cycle,Connected
+Force to activate,4010,14.2,N/A,Life-cycle,Connected
+Force to activate,4011,13.96,N/A,Life-cycle,Connected
+Force to activate,4012,13.825,N/A,Life-cycle,Connected
+Force to activate,4013,9.875,N/A,Free-fall,Connected
+Force to activate,4014,9.825,N/A,Free-fall,Connected
+Force to activate,4015,9.775,N/A,Free-fall,Connected
+Force to activate,4016,9.85,N/A,Free-fall,Connected
+Force to activate,4017,9.6,N/A,Free-fall,Connected
+Force to activate,4018,9.425,N/A,Free-fall,Connected
+Force to activate,4019,9.725,N/A,Free-fall,Connected
+Force to activate,4020,9.775,N/A,Free-fall,Connected
+Force to activate,4021,9.825,N/A,Free-fall,Connected
+Force to activate,4022,9.9,N/A,Free-fall,Connected
+Force to activate,4023,9.6,N/A,Free-fall,Connected
+Force to activate,4024,9.425,N/A,Free-fall,Connected
+Force to activate,4025,9.425,N/A,Free-fall,Connected
+Force to activate,4026,9.525,N/A,Free-fall,Connected
+Force to activate,4027,9.425,N/A,Free-fall,Connected
+Force to activate,4028,9.475,N/A,Free-fall,Connected
+Force to activate,4029,9.7,N/A,Free-fall,Connected
+Force to activate,4030,9.675,N/A,Free-fall,Connected
+Force to activate,4031,9.725,N/A,Free-fall,Connected
+Force to activate,4032,9.575,N/A,Free-fall,Connected
+Force to activate,4033,9.25,N/A,Free-fall,Connected
+Force to activate,4034,9.625,N/A,Free-fall,Connected
+Force to activate,4035,9.4,N/A,Free-fall,Connected
+Force to activate,4036,10.04,N/A,Free-fall,Connected
+Force to activate,4037,9.525,N/A,Free-fall,Connected
+Force to activate,4038,9.35,N/A,Free-fall,Connected
+Force to activate,4039,9.68,N/A,Free-fall,Connected
+Force to activate,4040,9.76,N/A,Free-fall,Connected
+Force to activate,4041,9.85,N/A,Free-fall,Connected
+Force to activate,4042,9.525,N/A,Free-fall,Connected
+Force to activate,4043,9.84,N/A,Free-fall,Connected
+Force to activate,4044,9.65,N/A,Free-fall,Connected
+Force to activate,4045,9.825,N/A,Free-fall,Connected
+Force to activate,4046,9.5,N/A,Free-fall,Connected
+Force to activate,4047,9.625,N/A,Free-fall,Connected
+Force to activate,4048,9.7,N/A,Free-fall,Non-Connected
+Force to activate,4049,9.36,N/A,Free-fall,Non-Connected
+Force to activate,4050,9.525,N/A,Free-fall,Non-Connected
+Force to activate,4051,9.775,N/A,Free-fall,Non-Connected
+Force to activate,4052,9.4,N/A,Free-fall,Non-Connected
+Force to activate,4053,9.575,N/A,Free-fall,Non-Connected
+Force to activate,4054,9.76,N/A,Free-fall,Non-Connected
+Force to activate,4055,9.675,N/A,Free-fall,Non-Connected
+Force to activate,4056,9.4,N/A,Free-fall,Non-Connected
+Force to activate,4057,9.875,N/A,Free-fall,Non-Connected
+Force to activate,4058,9.425,N/A,Free-fall,Non-Connected
+Force to activate,4059,9.3,N/A,Free-fall,Non-Connected
+Force to activate,4060,9.3,N/A,Free-fall,Non-Connected
+Force to activate,4061,9.52,N/A,Free-fall,Non-Connected
+Force to activate,4062,9.5,N/A,Free-fall,Non-Connected
+Force to activate,4063,9.65,N/A,Free-fall,Non-Connected
+Force to activate,4064,9.525,N/A,Free-fall,Non-Connected
+Force to activate,4065,9.375,N/A,Free-fall,Non-Connected
+Force to activate,4066,9.36,N/A,Free-fall,Non-Connected
+Force to activate,4067,9.775,N/A,Free-fall,Non-Connected
+Force to activate,4068,10.7,N/A,Dry Heat,Connected
+Force to activate,4069,10.75,N/A,Dry Heat,Connected
+Force to activate,4070,10.4,N/A,Dry Heat,Connected
+Force to activate,4071,10.55,N/A,Dry Heat,Connected
+Force to activate,4072,10.65,N/A,Dry Heat,Connected
+Force to activate,4073,10.5,N/A,Dry Heat,Connected
+Force to activate,4074,10.25,N/A,Dry Heat,Connected
+Force to activate,4075,10.675,N/A,Dry Heat,Connected
+Force to activate,4076,10.575,N/A,Dry Heat,Connected
+Force to activate,4077,10.85,N/A,Dry Heat,Connected
+Force to activate,4078,10.925,N/A,Dry Heat,Connected
+Force to activate,4079,11.125,N/A,Dry Heat,Connected
+Force to activate,4080,10.875,N/A,Dry Heat,Connected
+Force to activate,4081,11.175,N/A,Dry Heat,Connected
+Force to activate,4082,10.875,N/A,Dry Heat,Connected
+Force to activate,4083,11.28,N/A,Dry Heat,Connected
+Force to activate,4084,11.325,N/A,Dry Heat,Connected
+Force to activate,4085,10.975,N/A,Dry Heat,Connected
+Force to activate,4086,11.04,N/A,Dry Heat,Connected
+Force to activate,4087,10.92,N/A,Dry Heat,Connected
+Force to activate,4088,10.8,N/A,Dry Heat,Connected
+Force to activate,4089,10.9,N/A,Dry Heat,Connected
+Force to activate,4090,10.675,N/A,Dry Heat,Connected
+Force to activate,4091,10.575,N/A,Dry Heat,Connected
+Force to activate,4092,10.76,N/A,Dry Heat,Connected
+Force to activate,4093,10.825,N/A,Dry Heat,Connected
+Force to activate,4094,11,N/A,Dry Heat,Connected
+Force to activate,4095,11.075,N/A,Dry Heat,Connected
+Force to activate,4096,11.125,N/A,Dry Heat,Connected
+Force to activate,4097,10.825,N/A,Dry Heat,Connected
+Force to activate,4098,10.9,N/A,Dry Heat,Connected
+Force to activate,4099,10.725,N/A,Dry Heat,Connected
+Force to activate,4100,10.65,N/A,Dry Heat,Connected
+Force to activate,4101,10.8,N/A,Dry Heat,Connected
+Force to activate,4102,10.7,N/A,Dry Heat,Connected
+Force to activate,4103,9.925,N/A,Cold Storage,Connected
+Force to activate,4104,10.125,N/A,Cold Storage,Connected
+Force to activate,4105,10,N/A,Cold Storage,Connected
+Force to activate,4106,10.525,N/A,Cold Storage,Connected
+Force to activate,4107,9.975,N/A,Cold Storage,Connected
+Force to activate,4108,10.125,N/A,Cold Storage,Connected
+Force to activate,4109,9.925,N/A,Cold Storage,Connected
+Force to activate,4110,9.825,N/A,Cold Storage,Connected
+Force to activate,4111,10.05,N/A,Cold Storage,Connected
+Force to activate,4112,9.675,N/A,Cold Storage,Connected
+Force to activate,4113,9.85,N/A,Cold Storage,Connected
+Force to activate,4114,10.175,N/A,Cold Storage,Connected
+Force to activate,4115,9.96,N/A,Cold Storage,Connected
+Force to activate,4116,10.35,N/A,Cold Storage,Connected
+Force to activate,4117,10.05,N/A,Cold Storage,Connected
+Force to activate,4118,9.85,N/A,Cold Storage,Connected
+Force to activate,4119,10.08,N/A,Cold Storage,Connected
+Force to activate,4120,10.05,N/A,Cold Storage,Connected
+Force to activate,4121,10.225,N/A,Cold Storage,Connected
+Force to activate,4122,10.08,N/A,Cold Storage,Connected
+Force to activate,4123,10.12,N/A,Cold Storage,Connected
+Force to activate,4124,10.1,N/A,Cold Storage,Connected
+Force to activate,4125,10.55,N/A,Cold Storage,Connected
+Force to activate,4126,9.9,N/A,Cold Storage,Connected
+Force to activate,4127,10.32,N/A,Cold Storage,Connected
+Force to activate,4128,10.25,N/A,Cold Storage,Connected
+Force to activate,4129,10.025,N/A,Cold Storage,Connected
+Force to activate,4130,10.425,N/A,Cold Storage,Connected
+Force to activate,4131,10.025,N/A,Cold Storage,Connected
+Force to activate,4132,10.2,N/A,Cold Storage,Connected
+Force to activate,4133,10.05,N/A,Cold Storage,Connected
+Force to activate,4134,9.85,N/A,Cold Storage,Connected
+Force to activate,4135,10.125,N/A,Cold Storage,Connected
+Force to activate,4136,10.125,N/A,Cold Storage,Connected
+Force to activate,4137,9.9,N/A,Cold Storage,Connected
+Force to activate,4138,9.975,N/A,Damp Heat,Connected
+Force to activate,4139,10.35,N/A,Damp Heat,Connected
+Force to activate,4140,10.025,N/A,Damp Heat,Connected
+Force to activate,4141,10.425,N/A,Damp Heat,Connected
+Force to activate,4142,10.325,N/A,Damp Heat,Connected
+Force to activate,4143,10.425,N/A,Damp Heat,Connected
+Force to activate,4144,10.125,N/A,Damp Heat,Connected
+Force to activate,4145,9.85,N/A,Damp Heat,Connected
+Force to activate,4146,10.4,N/A,Damp Heat,Connected
+Force to activate,4147,9.825,N/A,Damp Heat,Connected
+Force to activate,4148,9.65,N/A,Damp Heat,Connected
+Force to activate,4149,10.15,N/A,Damp Heat,Connected
+Force to activate,4150,10,N/A,Damp Heat,Connected
+Force to activate,4151,10,N/A,Damp Heat,Connected
+Force to activate,4152,10,N/A,Damp Heat,Connected
+Force to activate,4153,10.275,N/A,Damp Heat,Connected
+Force to activate,4154,10.04,N/A,Damp Heat,Connected
+Force to activate,4155,9.975,N/A,Damp Heat,Connected
+Force to activate,4156,9.775,N/A,Damp Heat,Connected
+Force to activate,4157,9.75,N/A,Damp Heat,Connected
+Force to activate,4158,10.375,N/A,Damp Heat,Connected
+Force to activate,4159,10.075,N/A,Damp Heat,Connected
+Force to activate,4160,10.1,N/A,Damp Heat,Connected
+Force to activate,4161,9.96,N/A,Damp Heat,Connected
+Force to activate,4162,9.95,N/A,Damp Heat,Connected
+Force to activate,4163,10.025,N/A,Damp Heat,Connected
+Force to activate,4164,10.225,N/A,Damp Heat,Connected
+Force to activate,4165,10.35,N/A,Damp Heat,Connected
+Force to activate,4166,10.2,N/A,Damp Heat,Connected
+Force to activate,4167,10.06,N/A,Damp Heat,Connected
+Force to activate,4168,10.6,N/A,Damp Heat,Connected
+Force to activate,4169,10.2,N/A,Damp Heat,Connected
+Force to activate,4170,10.15,N/A,Damp Heat,Connected
+Force to activate,4171,10.225,N/A,Damp Heat,Connected
+Force to activate,4172,10.2,N/A,Damp Heat,Connected
+Force to activate,4173,10,N/A,Cyclical,Connected
+Force to activate,4174,9.76,N/A,Cyclical,Connected
+Force to activate,4175,10.1,N/A,Cyclical,Connected
+Force to activate,4176,9.84,N/A,Cyclical,Connected
+Force to activate,4177,9.96,N/A,Cyclical,Connected
+Force to activate,4178,9.9,N/A,Cyclical,Connected
+Force to activate,4179,9.875,N/A,Cyclical,Connected
+Force to activate,4180,10,N/A,Cyclical,Connected
+Force to activate,4181,10.04,N/A,Cyclical,Connected
+Force to activate,4182,10.1,N/A,Cyclical,Connected
+Force to activate,4183,9.92,N/A,Cyclical,Connected
+Force to activate,4184,9.9,N/A,Cyclical,Connected
+Force to activate,4185,9.825,N/A,Cyclical,Connected
+Force to activate,4186,9.8,N/A,Cyclical,Connected
+Force to activate,4187,10,N/A,Cyclical,Connected
+Force to activate,4188,10,N/A,Cyclical,Connected
+Force to activate,4189,9.64,N/A,Cyclical,Connected
+Force to activate,4190,9.96,N/A,Cyclical,Connected
+Force to activate,4191,9.84,N/A,Cyclical,Connected
+Force to activate,4192,10,N/A,Cyclical,Connected
+Force to activate,4193,9.9,N/A,Cyclical,Connected
+Force to activate,4194,9.625,N/A,Cyclical,Connected
+Force to activate,4195,9.9,N/A,Cyclical,Connected
+Force to activate,4196,9.85,N/A,Cyclical,Connected
+Force to activate,4197,9.88,N/A,Cyclical,Connected
+Force to activate,4198,9.725,N/A,Cyclical,Connected
+Force to activate,4199,9.76,N/A,Cyclical,Connected
+Force to activate,4200,9.725,N/A,Cyclical,Connected
+Force to activate,4201,10,N/A,Cyclical,Connected
+Force to activate,4202,10.075,N/A,Cyclical,Connected
+Force to activate,4203,9.9,N/A,Cyclical,Connected
+Force to activate,4204,10.15,N/A,Cyclical,Connected
+Force to activate,4205,10,N/A,Cyclical,Connected
+Force to activate,4206,9.725,N/A,Cyclical,Connected
+Force to activate,4207,10,N/A,Cyclical,Connected
+Force to activate,4208,9.7,N/A,Vibration,Connected
+Force to activate,4209,9.775,N/A,Vibration,Connected
+Force to activate,4210,9.6,N/A,Vibration,Connected
+Force to activate,4211,9.975,N/A,Vibration,Connected
+Force to activate,4212,9.725,N/A,Vibration,Connected
+Force to activate,4213,9.64,N/A,Vibration,Connected
+Force to activate,4214,9.8,N/A,Vibration,Connected
+Force to activate,4215,9.55,N/A,Vibration,Connected
+Force to activate,4216,10,N/A,Vibration,Connected
+Force to activate,4217,9.95,N/A,Vibration,Connected
+Force to activate,4218,9.88,N/A,Vibration,Connected
+Force to activate,4219,9.64,N/A,Vibration,Connected
+Force to activate,4220,10.1,N/A,Vibration,Connected
+Force to activate,4221,10.025,N/A,Vibration,Connected
+Force to activate,4222,9.8,N/A,Vibration,Connected
+Force to activate,4223,9.88,N/A,Vibration,Connected
+Force to activate,4224,9.925,N/A,Vibration,Connected
+Force to activate,4225,10.075,N/A,Vibration,Connected
+Force to activate,4226,9.85,N/A,Vibration,Connected
+Force to activate,4227,10.44,N/A,Vibration,Connected
+Force to activate,4228,10.225,N/A,Vibration,Connected
+Force to activate,4229,10.275,N/A,Vibration,Connected
+Force to activate,4230,10.125,N/A,Vibration,Connected
+Force to activate,4231,10.175,N/A,Vibration,Connected
+Force to activate,4232,10.2,N/A,Vibration,Connected
+Force to activate,4233,9.825,N/A,Vibration,Connected
+Force to activate,4234,10.04,N/A,Vibration,Connected
+Force to activate,4235,9.925,N/A,Vibration,Connected
+Force to activate,4236,10.12,N/A,Vibration,Connected
+Force to activate,4237,10.275,N/A,Vibration,Connected
+Force to activate,4238,10.125,N/A,Vibration,Connected
+Force to activate,4239,9.84,N/A,Vibration,Connected
+Force to activate,4240,9.85,N/A,Vibration,Connected
+Force to activate,4241,9.7,N/A,Vibration,Connected
+Force to activate,4242,10.1,N/A,Vibration,Connected
+Force to activate,4243,10.275,N/A,Vibration,Non-Connected
+Force to activate,4244,10.05,N/A,Vibration,Non-Connected
+Force to activate,4245,9.84,N/A,Vibration,Non-Connected
+Force to activate,4246,10.175,N/A,Vibration,Non-Connected
+Force to activate,4247,10.2,N/A,Vibration,Non-Connected
+Force to activate,4248,10,N/A,Vibration,Non-Connected
+Force to activate,4249,9.8,N/A,Vibration,Non-Connected
+Force to activate,4250,9.8,N/A,Vibration,Non-Connected
+Force to activate,4251,10.04,N/A,Vibration,Non-Connected
+Force to activate,4252,10.125,N/A,Vibration,Non-Connected
+Force to activate,4253,10.025,N/A,Vibration,Non-Connected
+Force to activate,4254,10.24,N/A,Vibration,Non-Connected
+Force to activate,4255,10.12,N/A,Vibration,Non-Connected
+Force to activate,4256,10.15,N/A,Vibration,Non-Connected
+Force to activate,4257,10.2,N/A,Vibration,Non-Connected
+Force to activate,4258,10.15,N/A,Vibration,Non-Connected
+Force to activate,4259,10.1,N/A,Vibration,Non-Connected
+Force to activate,4260,10.475,N/A,Vibration,Non-Connected
+Force to activate,4261,10.075,N/A,Vibration,Non-Connected
+Force to activate,4262,10.15,N/A,Vibration,Non-Connected
+Force to activate,4263,9.76,N/A,Transport,Connected
+Force to activate,4264,9.68,N/A,Transport,Connected
+Force to activate,4265,9.775,N/A,Transport,Connected
+Force to activate,4266,9.975,N/A,Transport,Connected
+Force to activate,4267,9.8,N/A,Transport,Connected
+Force to activate,4268,9.88,N/A,Transport,Connected
+Force to activate,4269,10,N/A,Transport,Connected
+Force to activate,4270,10.05,N/A,Transport,Connected
+Force to activate,4271,9.84,N/A,Transport,Connected
+Force to activate,4272,9.92,N/A,Transport,Connected
+Force to activate,4273,9.875,N/A,Transport,Connected
+Force to activate,4274,9.85,N/A,Transport,Connected
+Force to activate,4275,10.2,N/A,Transport,Connected
+Force to activate,4276,9.725,N/A,Transport,Connected
+Force to activate,4277,9.55,N/A,Transport,Connected
+Force to activate,4278,10.08,N/A,Transport,Connected
+Force to activate,4279,9.84,N/A,Transport,Connected
+Force to activate,4280,10.175,N/A,Transport,Connected
+Force to activate,4281,9.85,N/A,Transport,Connected
+Force to activate,4282,9.875,N/A,Transport,Connected
+Force to activate,4283,10.125,N/A,Transport,Connected
+Force to activate,4284,9.55,N/A,Transport,Connected
+Force to activate,4285,9.825,N/A,Transport,Connected
+Force to activate,4286,9.8,N/A,Transport,Connected
+Force to activate,4287,10.075,N/A,Transport,Connected
+Force to activate,4288,10.4,N/A,Transport,Connected
+Force to activate,4289,10.12,N/A,Transport,Connected
+Force to activate,4290,9.8,N/A,Transport,Connected
+Force to activate,4291,9.85,N/A,Transport,Connected
+Force to activate,4292,9.875,N/A,Transport,Connected
+Force to activate,4293,9.8,N/A,Transport,Connected
+Force to activate,4294,9.9,N/A,Transport,Connected
+Force to activate,4295,9.825,N/A,Transport,Connected
+Force to activate,4296,9.925,N/A,Transport,Connected
+Force to activate,4297,9.775,N/A,Transport,Connected
+Force to activate,4298,10.76,N/A,Transport,Non-Connected
+Force to activate,4299,10.725,N/A,Transport,Non-Connected
+Force to activate,4300,10.375,N/A,Transport,Non-Connected
+Force to activate,4301,10.325,N/A,Transport,Non-Connected
+Force to activate,4302,10.48,N/A,Transport,Non-Connected
+Force to activate,4303,10.24,N/A,Transport,Non-Connected
+Force to activate,4304,10.5,N/A,Transport,Non-Connected
+Force to activate,4305,10.725,N/A,Transport,Non-Connected
+Force to activate,4306,10.6,N/A,Transport,Non-Connected
+Force to activate,4307,10.6,N/A,Transport,Non-Connected
+Force to activate,4308,10.85,N/A,Transport,Non-Connected
+Force to activate,4309,10.48,N/A,Transport,Non-Connected
+Force to activate,4310,10.425,N/A,Transport,Non-Connected
+Force to activate,4311,10.875,N/A,Transport,Non-Connected
+Force to activate,4312,10.52,N/A,Transport,Non-Connected
+Force to activate,4313,10.725,N/A,Transport,Non-Connected
+Force to activate,4314,10.45,N/A,Transport,Non-Connected
+Force to activate,4315,10.725,N/A,Transport,Non-Connected
+Force to activate,4316,10.275,N/A,Transport,Non-Connected
+Force to activate,4317,10.325,N/A,Transport,Non-Connected
+Force to activate,4318,9.8,N/A,Fluid Leakage,Connected
+Force to activate,4319,10,N/A,Fluid Leakage,Connected
+Force to activate,4320,9.72,N/A,Fluid Leakage,Connected
+Force to activate,4321,10.175,N/A,Fluid Leakage,Connected
+Force to activate,4322,9.76,N/A,Fluid Leakage,Connected
+Force to activate,4323,10.32,N/A,Fluid Leakage,Connected
+Force to activate,4324,9.9,N/A,Fluid Leakage,Connected
+Force to activate,4325,9.575,N/A,Fluid Leakage,Connected
+Force to activate,4326,9.6,N/A,Fluid Leakage,Connected
+Force to activate,4327,9.52,N/A,Fluid Leakage,Connected
+Force to activate,4328,9.7,N/A,Fluid Leakage,Connected
+Force to activate,4329,9.76,N/A,Fluid Leakage,Connected
+Force to activate,4330,9.8,N/A,Fluid Leakage,Connected
+Force to activate,4331,9.84,N/A,Fluid Leakage,Connected
+Force to activate,4332,9.775,N/A,Fluid Leakage,Connected
+Force to activate,4333,9.6,N/A,Fluid Leakage,Connected
+Force to activate,4334,9.825,N/A,Fluid Leakage,Connected
+Force to activate,4335,9.6,N/A,Fluid Leakage,Connected
+Force to activate,4336,9.6,N/A,Fluid Leakage,Connected
+Force to activate,4337,9.48,N/A,Fluid Leakage,Connected
+Force to activate,4338,9.775,N/A,Fluid Leakage,Connected
+Force to activate,4339,9.6,N/A,Fluid Leakage,Connected
+Force to activate,4340,10.1,N/A,Fluid Leakage,Connected
+Force to activate,4341,9.65,N/A,Fluid Leakage,Connected
+Force to activate,4342,9.76,N/A,Fluid Leakage,Connected
+Force to activate,4343,9.8,N/A,Fluid Leakage,Connected
+Force to activate,4344,9.825,N/A,Fluid Leakage,Connected
+Force to activate,4345,9.875,N/A,Fluid Leakage,Connected
+Force to activate,4346,9.64,N/A,Fluid Leakage,Connected
+Force to activate,4347,9.95,N/A,Fluid Leakage,Connected
+Force to activate,4348,9.64,N/A,Fluid Leakage,Connected
+Force to activate,4349,10.125,N/A,Fluid Leakage,Connected
+Force to activate,4350,9.76,N/A,Fluid Leakage,Connected
+Force to activate,4351,9.88,N/A,Fluid Leakage,Connected
+Force to activate,4352,9.72,N/A,Fluid Leakage,Connected
+Force to activate,4353,11.16,N/A,Accelerated Aged,Connected
+Force to activate,4354,11.225,N/A,Accelerated Aged,Connected
+Force to activate,4355,10.95,N/A,Accelerated Aged,Connected
+Force to activate,4356,10.75,N/A,Accelerated Aged,Connected
+Force to activate,4357,11.025,N/A,Accelerated Aged,Connected
+Force to activate,4358,11.16,N/A,Accelerated Aged,Connected
+Force to activate,4359,10.72,N/A,Accelerated Aged,Connected
+Force to activate,4360,10.55,N/A,Accelerated Aged,Connected
+Force to activate,4361,10.85,N/A,Accelerated Aged,Connected
+Force to activate,4362,10.7,N/A,Accelerated Aged,Connected
+Force to activate,4363,10.76,N/A,Accelerated Aged,Connected
+Force to activate,4364,11.6,N/A,Accelerated Aged,Connected
+Force to activate,4365,11.325,N/A,Accelerated Aged,Connected
+Force to activate,4366,10.875,N/A,Accelerated Aged,Connected
+Force to activate,4367,10.84,N/A,Accelerated Aged,Connected
+Force to activate,4368,10.84,N/A,Accelerated Aged,Connected
+Force to activate,4369,10.525,N/A,Accelerated Aged,Connected
+Force to activate,4370,10.88,N/A,Accelerated Aged,Connected
+Force to activate,4371,10.75,N/A,Accelerated Aged,Connected
+Force to activate,4372,10.96,N/A,Accelerated Aged,Connected
+Force to activate,4373,10.48,N/A,Accelerated Aged,Connected
+Force to activate,4374,10.64,N/A,Accelerated Aged,Connected
+Force to activate,4375,10.6,N/A,Accelerated Aged,Connected
+Force to activate,4376,10.8,N/A,Accelerated Aged,Connected
+Force to activate,4377,10.775,N/A,Accelerated Aged,Connected
+Force to activate,4378,10.7,N/A,Accelerated Aged,Connected
+Force to activate,4379,11.05,N/A,Accelerated Aged,Connected
+Force to activate,4380,10.875,N/A,Accelerated Aged,Connected
+Force to activate,4381,11.125,N/A,Accelerated Aged,Connected
+Force to activate,4382,10.72,N/A,Accelerated Aged,Connected
+Force to activate,4383,10.76,N/A,Accelerated Aged,Connected
+Force to activate,4384,11.4,N/A,Accelerated Aged,Connected
+Force to activate,4385,10.64,N/A,Accelerated Aged,Connected
+Force to activate,4386,11.52,N/A,Accelerated Aged,Connected
+Force to activate,4387,10.5,N/A,Accelerated Aged,Connected
+Force to activate,4388,10.52,N/A,Accelerated Aged,Connected
+Force to activate,4389,10.68,N/A,Accelerated Aged,Connected
+Force to activate,4390,10.275,N/A,Accelerated Aged,Connected
+Force to activate,4391,10.225,N/A,Accelerated Aged,Connected
+Force to activate,4392,10.3,N/A,Accelerated Aged,Connected
+Force to activate,4393,10.625,N/A,Accelerated Aged,Connected
+Force to activate,4394,10.2,N/A,Accelerated Aged,Connected
+Force to activate,4395,10.08,N/A,Accelerated Aged,Connected
+Force to activate,4396,10.36,N/A,Accelerated Aged,Connected
+Force to activate,4397,10,N/A,Accelerated Aged,Connected
+Force to activate,4398,9.875,N/A,Accelerated Aged,Connected
+Force to activate,4399,11.475,N/A,Accelerated Aged,Connected
+Force to activate,4400,10.7,N/A,Accelerated Aged,Connected
+Force to activate,4401,10.64,N/A,Accelerated Aged,Connected
+Force to activate,4402,10.275,N/A,Accelerated Aged,Connected
+Force to activate,4403,9.8,N/A,Accelerated Aged,Connected
+Force to activate,4404,9.975,N/A,Accelerated Aged,Connected
+Force to activate,4405,10.2,N/A,Accelerated Aged,Connected
+Force to activate,4406,10.44,N/A,Accelerated Aged,Connected
+Force to activate,4407,9.9,N/A,Accelerated Aged,Connected
+Force to activate,4408,9.825,N/A,Accelerated Aged,Connected
+Force to activate,4409,9.85,N/A,Accelerated Aged,Connected
+Force to activate,4410,10.225,N/A,Accelerated Aged,Connected
+Force to activate,4411,10.225,N/A,Accelerated Aged,Connected
+Force to activate,4412,10,N/A,Accelerated Aged,Connected
+Force to activate,4413,9.95,N/A,Accelerated Aged,Connected
+Force to activate,4414,10.25,N/A,Accelerated Aged,Connected
+Force to activate,4415,10.1,N/A,Accelerated Aged,Connected
+Force to activate,4416,10.025,N/A,Accelerated Aged,Connected
+Force to activate,4417,10.08,N/A,Accelerated Aged,Connected
+Force to activate,4418,10.825,N/A,Accelerated Aged,Connected
+Force to activate,4419,10.8,N/A,Accelerated Aged,Connected
+Force to activate,4420,10.2,N/A,Accelerated Aged,Connected
+Force to activate,4421,10.48,N/A,Accelerated Aged,Connected
+Force to activate,4422,10.05,N/A,Accelerated Aged,Connected
+Force to activate,4423,11.16,N/A,Accelerated Aged,Connected
+Force to activate,4424,11,N/A,Accelerated Aged,Connected
+Force to activate,4425,10.76,N/A,Accelerated Aged,Connected
+Force to activate,4426,10.5,N/A,Accelerated Aged,Connected
+Force to activate,4427,10.8,N/A,Accelerated Aged,Connected
+Force to activate,4428,10.9,N/A,Accelerated Aged,Connected
+Force to activate,4429,10.6,N/A,Accelerated Aged,Connected
+Force to activate,4430,10.3,N/A,Accelerated Aged,Connected
+Force to activate,4431,10.875,N/A,Accelerated Aged,Connected
+Force to activate,4432,10.3,N/A,Accelerated Aged,Connected
+Force to activate,4433,10.36,N/A,Accelerated Aged,Connected
+Force to activate,4434,11.825,N/A,Accelerated Aged,Connected
+Force to activate,4435,10.825,N/A,Accelerated Aged,Connected
+Force to activate,4436,10.8,N/A,Accelerated Aged,Connected
+Force to activate,4437,10.6,N/A,Accelerated Aged,Connected
+Force to activate,4438,10.28,N/A,Accelerated Aged,Connected
+Force to activate,4439,10.44,N/A,Accelerated Aged,Connected
+Force to activate,4440,10.775,N/A,Accelerated Aged,Connected
+Force to activate,4441,10.88,N/A,Accelerated Aged,Connected
+Force to activate,4442,10.7,N/A,Accelerated Aged,Connected
+Force to activate,4443,10.375,N/A,Accelerated Aged,Connected
+Force to activate,4444,10.525,N/A,Accelerated Aged,Connected
+Force to activate,4445,10.625,N/A,Accelerated Aged,Connected
+Force to activate,4446,10.625,N/A,Accelerated Aged,Connected
+Force to activate,4447,10.725,N/A,Accelerated Aged,Connected
+Force to activate,4448,10.44,N/A,Accelerated Aged,Connected
+Force to activate,4449,10.52,N/A,Accelerated Aged,Connected
+Force to activate,4450,10.675,N/A,Accelerated Aged,Connected
+Force to activate,4451,10.52,N/A,Accelerated Aged,Connected
+Force to activate,4452,10.575,N/A,Accelerated Aged,Connected
+Force to activate,4453,10.9,N/A,Accelerated Aged,Connected
+Force to activate,4454,11.2,N/A,Accelerated Aged,Connected
+Force to activate,4455,10.65,N/A,Accelerated Aged,Connected
+Force to activate,4456,11.04,N/A,Accelerated Aged,Connected
+Force to activate,4457,10.275,N/A,Accelerated Aged,Connected
+Force to activate,4458,11.025,N/A,Accelerated Aged,Connected
+Force to activate,4459,10.95,N/A,Accelerated Aged,Connected
+Force to activate,4460,10.775,N/A,Accelerated Aged,Connected
+Force to activate,4461,10.275,N/A,Accelerated Aged,Connected
+Force to activate,4462,10.425,N/A,Accelerated Aged,Connected
+Force to activate,4463,10.725,N/A,Accelerated Aged,Connected
+Force to activate,4464,10.575,N/A,Accelerated Aged,Connected
+Force to activate,4465,10.25,N/A,Accelerated Aged,Connected
+Force to activate,4466,10.65,N/A,Accelerated Aged,Connected
+Force to activate,4467,10.45,N/A,Accelerated Aged,Connected
+Force to activate,4468,10.525,N/A,Accelerated Aged,Connected
+Force to activate,4469,11.9,N/A,Accelerated Aged,Connected
+Force to activate,4470,10.775,N/A,Accelerated Aged,Connected
+Force to activate,4471,10.85,N/A,Accelerated Aged,Connected
+Force to activate,4472,10.475,N/A,Accelerated Aged,Connected
+Force to activate,4473,10.1,N/A,Accelerated Aged,Connected
+Force to activate,4474,10.525,N/A,Accelerated Aged,Connected
+Force to activate,4475,10.6,N/A,Accelerated Aged,Connected
+Force to activate,4476,10.675,N/A,Accelerated Aged,Connected
+Force to activate,4477,10.65,N/A,Accelerated Aged,Connected
+Force to activate,4478,10.45,N/A,Accelerated Aged,Connected
+Force to activate,4479,10.725,N/A,Accelerated Aged,Connected
+Force to activate,4480,10.525,N/A,Accelerated Aged,Connected
+Force to activate,4481,10.65,N/A,Accelerated Aged,Connected
+Force to activate,4482,10.65,N/A,Accelerated Aged,Connected
+Force to activate,4483,10.375,N/A,Accelerated Aged,Connected
+Force to activate,4484,10.575,N/A,Accelerated Aged,Connected
+Force to activate,4485,10.525,N/A,Accelerated Aged,Connected
+Force to activate,4486,10.6,N/A,Accelerated Aged,Connected
+Force to activate,4487,10.625,N/A,Accelerated Aged,Connected
+Force to activate,4488,10.675,N/A,Accelerated Aged,Connected
+Force to activate,4489,10.96,N/A,Accelerated Aged,Connected
+Force to activate,4490,10.475,N/A,Accelerated Aged,Connected
+Force to activate,4491,10.925,N/A,Accelerated Aged,Connected
+Force to activate,4492,10.56,N/A,Accelerated Aged,Connected
+Force to activate,4493,11.64,N/A,Standard,Connected
+Force to activate,4494,11.15,N/A,Standard,Connected
+Force to activate,4495,11.72,N/A,Standard,Connected
+Force to activate,4496,11.22,N/A,Standard,Connected
+Force to activate,4497,11.56,N/A,Standard,Connected
+Force to activate,4498,12.4,N/A,Standard,Connected
+Force to activate,4499,11.38,N/A,Standard,Connected
+Force to activate,4500,12,N/A,Standard,Connected
+Force to activate,4501,13.09,N/A,Standard,Connected
+Force to activate,4502,13.89,N/A,Standard,Connected
+Force to activate,4503,12.09,N/A,Standard,Connected
+Force to activate,4504,11.22,N/A,Standard,Connected
+Force to activate,4505,12.06,N/A,Standard,Connected
+Force to activate,4506,10.53,N/A,Standard,Connected
+Force to activate,4507,12.47,N/A,Standard,Connected
+Force to activate,4508,12.99,N/A,Standard,Connected
+Force to activate,4509,12.12,N/A,Standard,Connected
+Force to activate,4510,12.23,N/A,Standard,Connected
+Force to activate,4511,11.54,N/A,Standard,Connected
+Force to activate,4512,11.37,N/A,Standard,Connected
+Force to activate,4513,13.23,N/A,Standard,Connected
+Force to activate,4514,11.99,N/A,Standard,Connected
+Force to activate,4515,11.47,N/A,Standard,Connected
+Force to activate,4516,10.82,N/A,Standard,Connected
+Force to activate,4517,9.85,N/A,Standard,Connected
+Force to activate,4518,11.23,N/A,Standard,Connected
+Force to activate,4519,12.58,N/A,Standard,Connected
+Force to activate,4520,11.95,N/A,Standard,Connected
+Force to activate,4521,11.68,N/A,Standard,Connected
+Force to activate,4522,12.43,N/A,Standard,Connected
+Force to activate,4523,13.24,N/A,Standard,Connected
+Force to activate,4524,12.47,N/A,Standard,Connected
+Hold force,4525,6.975,N/A,Standard,Connected
+Hold force,4526,6.88,N/A,Standard,Connected
+Hold force,4527,7.025,N/A,Standard,Connected
+Hold force,4528,7,N/A,Standard,Connected
+Hold force,4529,7.12,N/A,Standard,Connected
+Hold force,4530,7.2,N/A,Standard,Connected
+Hold force,4531,6.95,N/A,Standard,Connected
+Hold force,4532,7.025,N/A,Standard,Connected
+Hold force,4533,7.2,N/A,Standard,Connected
+Hold force,4534,6.9,N/A,Standard,Connected
+Hold force,4535,7.025,N/A,Standard,Connected
+Hold force,4536,7.2,N/A,Standard,Connected
+Hold force,4537,6.9,N/A,Standard,Connected
+Hold force,4538,6.95,N/A,Standard,Connected
+Hold force,4539,6.96,N/A,Standard,Connected
+Hold force,4540,6.875,N/A,Standard,Connected
+Hold force,4541,6.9,N/A,Standard,Connected
+Hold force,4542,7,N/A,Standard,Connected
+Hold force,4543,7.1,N/A,Standard,Connected
+Hold force,4544,6.85,N/A,Standard,Connected
+Hold force,4545,6.9,N/A,Standard,Connected
+Hold force,4546,7.025,N/A,Standard,Connected
+Hold force,4547,6.9,N/A,Standard,Connected
+Hold force,4548,6.925,N/A,Standard,Connected
+Hold force,4549,6.925,N/A,Standard,Connected
+Hold force,4550,7.08,N/A,Standard,Connected
+Hold force,4551,7,N/A,Standard,Connected
+Hold force,4552,7.08,N/A,Standard,Connected
+Hold force,4553,7.08,N/A,Standard,Connected
+Hold force,4554,7.2,N/A,Standard,Connected
+Hold force,4555,6.95,N/A,Standard,Connected
+Hold force,4556,7.05,N/A,Standard,Connected
+Hold force,4557,6.92,N/A,Standard,Connected
+Hold force,4558,7.16,N/A,Standard,Connected
+Hold force,4559,6.84,N/A,Standard,Connected
+Hold force,4560,6.925,N/A,Cool,Connected
+Hold force,4561,6.95,N/A,Cool,Connected
+Hold force,4562,6.9,N/A,Cool,Connected
+Hold force,4563,6.92,N/A,Cool,Connected
+Hold force,4564,7.04,N/A,Cool,Connected
+Hold force,4565,7.04,N/A,Cool,Connected
+Hold force,4566,6.975,N/A,Cool,Connected
+Hold force,4567,6.96,N/A,Cool,Connected
+Hold force,4568,6.9,N/A,Cool,Connected
+Hold force,4569,6.92,N/A,Cool,Connected
+Hold force,4570,6.975,N/A,Cool,Connected
+Hold force,4571,7.175,N/A,Cool,Connected
+Hold force,4572,7,N/A,Cool,Connected
+Hold force,4573,7.075,N/A,Cool,Connected
+Hold force,4574,7.04,N/A,Cool,Connected
+Hold force,4575,7.025,N/A,Cool,Connected
+Hold force,4576,7.025,N/A,Cool,Connected
+Hold force,4577,7,N/A,Cool,Connected
+Hold force,4578,7.15,N/A,Cool,Connected
+Hold force,4579,6.88,N/A,Cool,Connected
+Hold force,4580,6.925,N/A,Cool,Connected
+Hold force,4581,7.05,N/A,Cool,Connected
+Hold force,4582,6.92,N/A,Cool,Connected
+Hold force,4583,6.9,N/A,Cool,Connected
+Hold force,4584,7,N/A,Cool,Connected
+Hold force,4585,6.975,N/A,Cool,Connected
+Hold force,4586,7.05,N/A,Cool,Connected
+Hold force,4587,7.12,N/A,Cool,Connected
+Hold force,4588,6.9,N/A,Cool,Connected
+Hold force,4589,6.875,N/A,Cool,Connected
+Hold force,4590,6.92,N/A,Cool,Connected
+Hold force,4591,7.225,N/A,Cool,Connected
+Hold force,4592,7,N/A,Cool,Connected
+Hold force,4593,7.04,N/A,Cool,Connected
+Hold force,4594,6.92,N/A,Cool,Connected
+Hold force,4595,6.95,N/A,Warm,Connected
+Hold force,4596,6.85,N/A,Warm,Connected
+Hold force,4597,6.9,N/A,Warm,Connected
+Hold force,4598,6.8,N/A,Warm,Connected
+Hold force,4599,7.1,N/A,Warm,Connected
+Hold force,4600,6.875,N/A,Warm,Connected
+Hold force,4601,6.825,N/A,Warm,Connected
+Hold force,4602,6.875,N/A,Warm,Connected
+Hold force,4603,6.875,N/A,Warm,Connected
+Hold force,4604,6.975,N/A,Warm,Connected
+Hold force,4605,6.85,N/A,Warm,Connected
+Hold force,4606,6.925,N/A,Warm,Connected
+Hold force,4607,6.825,N/A,Warm,Connected
+Hold force,4608,6.775,N/A,Warm,Connected
+Hold force,4609,6.875,N/A,Warm,Connected
+Hold force,4610,6.875,N/A,Warm,Connected
+Hold force,4611,6.975,N/A,Warm,Connected
+Hold force,4612,6.9,N/A,Warm,Connected
+Hold force,4613,6.9,N/A,Warm,Connected
+Hold force,4614,6.8,N/A,Warm,Connected
+Hold force,4615,6.775,N/A,Warm,Connected
+Hold force,4616,6.875,N/A,Warm,Connected
+Hold force,4617,6.8,N/A,Warm,Connected
+Hold force,4618,6.825,N/A,Warm,Connected
+Hold force,4619,6.875,N/A,Warm,Connected
+Hold force,4620,6.825,N/A,Warm,Connected
+Hold force,4621,6.8,N/A,Warm,Connected
+Hold force,4622,6.85,N/A,Warm,Connected
+Hold force,4623,6.825,N/A,Warm,Connected
+Hold force,4624,6.82,N/A,Warm,Connected
+Hold force,4625,7.075,N/A,Warm,Connected
+Hold force,4626,6.975,N/A,Warm,Connected
+Hold force,4627,6.875,N/A,Warm,Connected
+Hold force,4628,6.8,N/A,Warm,Connected
+Hold force,4629,6.775,N/A,Warm,Connected
+Hold force,4630,7.04,N/A,Life-cycle,Connected
+Hold force,4631,7.075,N/A,Life-cycle,Connected
+Hold force,4632,7.1,N/A,Life-cycle,Connected
+Hold force,4633,7.125,N/A,Life-cycle,Connected
+Hold force,4634,7.08,N/A,Life-cycle,Connected
+Hold force,4635,7.1,N/A,Life-cycle,Connected
+Hold force,4636,7.075,N/A,Life-cycle,Connected
+Hold force,4637,7.1,N/A,Life-cycle,Connected
+Hold force,4638,7.05,N/A,Life-cycle,Connected
+Hold force,4639,7.1,N/A,Life-cycle,Connected
+Hold force,4640,7.025,N/A,Life-cycle,Connected
+Hold force,4641,7.025,N/A,Life-cycle,Connected
+Hold force,4642,7.12,N/A,Life-cycle,Connected
+Hold force,4643,7.025,N/A,Life-cycle,Connected
+Hold force,4644,7.025,N/A,Life-cycle,Connected
+Hold force,4645,7.025,N/A,Life-cycle,Connected
+Hold force,4646,7.125,N/A,Life-cycle,Connected
+Hold force,4647,7.15,N/A,Life-cycle,Connected
+Hold force,4648,7.075,N/A,Life-cycle,Connected
+Hold force,4649,7.025,N/A,Life-cycle,Connected
+Hold force,4650,7.08,N/A,Life-cycle,Connected
+Hold force,4651,7.05,N/A,Life-cycle,Connected
+Hold force,4652,7.075,N/A,Life-cycle,Connected
+Hold force,4653,7.05,N/A,Life-cycle,Connected
+Hold force,4654,7.075,N/A,Life-cycle,Connected
+Hold force,4655,7.1,N/A,Life-cycle,Connected
+Hold force,4656,7.08,N/A,Life-cycle,Connected
+Hold force,4657,7.125,N/A,Life-cycle,Connected
+Hold force,4658,7.475,N/A,Life-cycle,Connected
+Hold force,4659,7,N/A,Life-cycle,Connected
+Hold force,4660,7.08,N/A,Life-cycle,Connected
+Hold force,4661,7.08,N/A,Life-cycle,Connected
+Hold force,4662,7.025,N/A,Life-cycle,Connected
+Hold force,4663,6.975,N/A,Life-cycle,Connected
+Hold force,4664,7.025,N/A,Life-cycle,Connected
+Hold force,4665,7.1,N/A,Life-cycle,Connected
+Hold force,4666,7.2,N/A,Life-cycle,Connected
+Hold force,4667,7.08,N/A,Life-cycle,Connected
+Hold force,4668,7.15,N/A,Life-cycle,Connected
+Hold force,4669,7,N/A,Life-cycle,Connected
+Hold force,4670,7.025,N/A,Life-cycle,Connected
+Hold force,4671,7.05,N/A,Life-cycle,Connected
+Hold force,4672,7.05,N/A,Life-cycle,Connected
+Hold force,4673,6.975,N/A,Life-cycle,Connected
+Hold force,4674,7.125,N/A,Life-cycle,Connected
+Hold force,4675,7.25,N/A,Life-cycle,Connected
+Hold force,4676,7.12,N/A,Life-cycle,Connected
+Hold force,4677,7.2,N/A,Life-cycle,Connected
+Hold force,4678,7.1,N/A,Life-cycle,Connected
+Hold force,4679,7.025,N/A,Life-cycle,Connected
+Hold force,4680,7.15,N/A,Life-cycle,Connected
+Hold force,4681,7.05,N/A,Life-cycle,Connected
+Hold force,4682,7.15,N/A,Life-cycle,Connected
+Hold force,4683,7.04,N/A,Life-cycle,Connected
+Hold force,4684,7.025,N/A,Life-cycle,Connected
+Hold force,4685,7.05,N/A,Life-cycle,Connected
+Hold force,4686,7.125,N/A,Life-cycle,Connected
+Hold force,4687,7.15,N/A,Life-cycle,Connected
+Hold force,4688,7.04,N/A,Life-cycle,Connected
+Hold force,4689,6.925,N/A,Life-cycle,Connected
+Hold force,4690,6.975,N/A,Free-fall,Connected
+Hold force,4691,6.925,N/A,Free-fall,Connected
+Hold force,4692,7.125,N/A,Free-fall,Connected
+Hold force,4693,6.95,N/A,Free-fall,Connected
+Hold force,4694,6.96,N/A,Free-fall,Connected
+Hold force,4695,6.95,N/A,Free-fall,Connected
+Hold force,4696,7.05,N/A,Free-fall,Connected
+Hold force,4697,6.925,N/A,Free-fall,Connected
+Hold force,4698,6.875,N/A,Free-fall,Connected
+Hold force,4699,6.975,N/A,Free-fall,Connected
+Hold force,4700,6.88,N/A,Free-fall,Connected
+Hold force,4701,7,N/A,Free-fall,Connected
+Hold force,4702,6.775,N/A,Free-fall,Connected
+Hold force,4703,6.825,N/A,Free-fall,Connected
+Hold force,4704,6.875,N/A,Free-fall,Connected
+Hold force,4705,6.9,N/A,Free-fall,Connected
+Hold force,4706,7.125,N/A,Free-fall,Connected
+Hold force,4707,6.925,N/A,Free-fall,Connected
+Hold force,4708,6.95,N/A,Free-fall,Connected
+Hold force,4709,6.925,N/A,Free-fall,Connected
+Hold force,4710,6.875,N/A,Free-fall,Connected
+Hold force,4711,7,N/A,Free-fall,Connected
+Hold force,4712,6.85,N/A,Free-fall,Connected
+Hold force,4713,6.96,N/A,Free-fall,Connected
+Hold force,4714,6.75,N/A,Free-fall,Connected
+Hold force,4715,6.85,N/A,Free-fall,Connected
+Hold force,4716,7.04,N/A,Free-fall,Connected
+Hold force,4717,6.96,N/A,Free-fall,Connected
+Hold force,4718,6.925,N/A,Free-fall,Connected
+Hold force,4719,6.875,N/A,Free-fall,Connected
+Hold force,4720,6.84,N/A,Free-fall,Connected
+Hold force,4721,6.85,N/A,Free-fall,Connected
+Hold force,4722,6.875,N/A,Free-fall,Connected
+Hold force,4723,6.725,N/A,Free-fall,Connected
+Hold force,4724,6.9,N/A,Free-fall,Connected
+Hold force,4725,7.1,N/A,Free-fall,Non-Connected
+Hold force,4726,6.92,N/A,Free-fall,Non-Connected
+Hold force,4727,7,N/A,Free-fall,Non-Connected
+Hold force,4728,7.1,N/A,Free-fall,Non-Connected
+Hold force,4729,7.075,N/A,Free-fall,Non-Connected
+Hold force,4730,6.975,N/A,Free-fall,Non-Connected
+Hold force,4731,7.12,N/A,Free-fall,Non-Connected
+Hold force,4732,6.9,N/A,Free-fall,Non-Connected
+Hold force,4733,7.04,N/A,Free-fall,Non-Connected
+Hold force,4734,7.075,N/A,Free-fall,Non-Connected
+Hold force,4735,6.85,N/A,Free-fall,Non-Connected
+Hold force,4736,6.875,N/A,Free-fall,Non-Connected
+Hold force,4737,6.9,N/A,Free-fall,Non-Connected
+Hold force,4738,7.04,N/A,Free-fall,Non-Connected
+Hold force,4739,7,N/A,Free-fall,Non-Connected
+Hold force,4740,6.85,N/A,Free-fall,Non-Connected
+Hold force,4741,6.95,N/A,Free-fall,Non-Connected
+Hold force,4742,6.925,N/A,Free-fall,Non-Connected
+Hold force,4743,6.92,N/A,Free-fall,Non-Connected
+Hold force,4744,7.125,N/A,Free-fall,Non-Connected
+Hold force,4745,7.275,N/A,Dry Heat,Connected
+Hold force,4746,7.025,N/A,Dry Heat,Connected
+Hold force,4747,7.275,N/A,Dry Heat,Connected
+Hold force,4748,7.025,N/A,Dry Heat,Connected
+Hold force,4749,7.125,N/A,Dry Heat,Connected
+Hold force,4750,7.225,N/A,Dry Heat,Connected
+Hold force,4751,7.125,N/A,Dry Heat,Connected
+Hold force,4752,7.05,N/A,Dry Heat,Connected
+Hold force,4753,7.1,N/A,Dry Heat,Connected
+Hold force,4754,7.1,N/A,Dry Heat,Connected
+Hold force,4755,7.325,N/A,Dry Heat,Connected
+Hold force,4756,7.35,N/A,Dry Heat,Connected
+Hold force,4757,7.15,N/A,Dry Heat,Connected
+Hold force,4758,7.1,N/A,Dry Heat,Connected
+Hold force,4759,7.075,N/A,Dry Heat,Connected
+Hold force,4760,7.32,N/A,Dry Heat,Connected
+Hold force,4761,7.125,N/A,Dry Heat,Connected
+Hold force,4762,7.025,N/A,Dry Heat,Connected
+Hold force,4763,7.24,N/A,Dry Heat,Connected
+Hold force,4764,7.04,N/A,Dry Heat,Connected
+Hold force,4765,7,N/A,Dry Heat,Connected
+Hold force,4766,7.325,N/A,Dry Heat,Connected
+Hold force,4767,7.1,N/A,Dry Heat,Connected
+Hold force,4768,7.025,N/A,Dry Heat,Connected
+Hold force,4769,6.92,N/A,Dry Heat,Connected
+Hold force,4770,7.25,N/A,Dry Heat,Connected
+Hold force,4771,7.35,N/A,Dry Heat,Connected
+Hold force,4772,7.275,N/A,Dry Heat,Connected
+Hold force,4773,7.15,N/A,Dry Heat,Connected
+Hold force,4774,7.175,N/A,Dry Heat,Connected
+Hold force,4775,7.15,N/A,Dry Heat,Connected
+Hold force,4776,7.225,N/A,Dry Heat,Connected
+Hold force,4777,6.975,N/A,Dry Heat,Connected
+Hold force,4778,7.04,N/A,Dry Heat,Connected
+Hold force,4779,7,N/A,Dry Heat,Connected
+Hold force,4780,7.025,N/A,Cold Storage,Connected
+Hold force,4781,7.2,N/A,Cold Storage,Connected
+Hold force,4782,7.05,N/A,Cold Storage,Connected
+Hold force,4783,7.175,N/A,Cold Storage,Connected
+Hold force,4784,6.925,N/A,Cold Storage,Connected
+Hold force,4785,7.075,N/A,Cold Storage,Connected
+Hold force,4786,7,N/A,Cold Storage,Connected
+Hold force,4787,6.875,N/A,Cold Storage,Connected
+Hold force,4788,7,N/A,Cold Storage,Connected
+Hold force,4789,7,N/A,Cold Storage,Connected
+Hold force,4790,7.2,N/A,Cold Storage,Connected
+Hold force,4791,7.025,N/A,Cold Storage,Connected
+Hold force,4792,7,N/A,Cold Storage,Connected
+Hold force,4793,7.05,N/A,Cold Storage,Connected
+Hold force,4794,7.05,N/A,Cold Storage,Connected
+Hold force,4795,6.875,N/A,Cold Storage,Connected
+Hold force,4796,7,N/A,Cold Storage,Connected
+Hold force,4797,7,N/A,Cold Storage,Connected
+Hold force,4798,7.175,N/A,Cold Storage,Connected
+Hold force,4799,6.84,N/A,Cold Storage,Connected
+Hold force,4800,7,N/A,Cold Storage,Connected
+Hold force,4801,6.975,N/A,Cold Storage,Connected
+Hold force,4802,6.975,N/A,Cold Storage,Connected
+Hold force,4803,6.975,N/A,Cold Storage,Connected
+Hold force,4804,7.04,N/A,Cold Storage,Connected
+Hold force,4805,6.925,N/A,Cold Storage,Connected
+Hold force,4806,7.05,N/A,Cold Storage,Connected
+Hold force,4807,7.05,N/A,Cold Storage,Connected
+Hold force,4808,6.875,N/A,Cold Storage,Connected
+Hold force,4809,7,N/A,Cold Storage,Connected
+Hold force,4810,6.85,N/A,Cold Storage,Connected
+Hold force,4811,6.925,N/A,Cold Storage,Connected
+Hold force,4812,7.425,N/A,Cold Storage,Connected
+Hold force,4813,7.075,N/A,Cold Storage,Connected
+Hold force,4814,7.125,N/A,Cold Storage,Connected
+Hold force,4815,6.975,N/A,Damp Heat,Connected
+Hold force,4816,7.1,N/A,Damp Heat,Connected
+Hold force,4817,7.1,N/A,Damp Heat,Connected
+Hold force,4818,7.05,N/A,Damp Heat,Connected
+Hold force,4819,7.025,N/A,Damp Heat,Connected
+Hold force,4820,7.2,N/A,Damp Heat,Connected
+Hold force,4821,6.975,N/A,Damp Heat,Connected
+Hold force,4822,7.15,N/A,Damp Heat,Connected
+Hold force,4823,6.975,N/A,Damp Heat,Connected
+Hold force,4824,7,N/A,Damp Heat,Connected
+Hold force,4825,7.05,N/A,Damp Heat,Connected
+Hold force,4826,7.075,N/A,Damp Heat,Connected
+Hold force,4827,7.15,N/A,Damp Heat,Connected
+Hold force,4828,7.04,N/A,Damp Heat,Connected
+Hold force,4829,7.1,N/A,Damp Heat,Connected
+Hold force,4830,7.075,N/A,Damp Heat,Connected
+Hold force,4831,6.92,N/A,Damp Heat,Connected
+Hold force,4832,7.075,N/A,Damp Heat,Connected
+Hold force,4833,7.025,N/A,Damp Heat,Connected
+Hold force,4834,6.975,N/A,Damp Heat,Connected
+Hold force,4835,7.225,N/A,Damp Heat,Connected
+Hold force,4836,7.25,N/A,Damp Heat,Connected
+Hold force,4837,7.1,N/A,Damp Heat,Connected
+Hold force,4838,7.04,N/A,Damp Heat,Connected
+Hold force,4839,7.05,N/A,Damp Heat,Connected
+Hold force,4840,7.175,N/A,Damp Heat,Connected
+Hold force,4841,7.15,N/A,Damp Heat,Connected
+Hold force,4842,7.05,N/A,Damp Heat,Connected
+Hold force,4843,7.05,N/A,Damp Heat,Connected
+Hold force,4844,7.1,N/A,Damp Heat,Connected
+Hold force,4845,7.175,N/A,Damp Heat,Connected
+Hold force,4846,7.15,N/A,Damp Heat,Connected
+Hold force,4847,7.175,N/A,Damp Heat,Connected
+Hold force,4848,7.175,N/A,Damp Heat,Connected
+Hold force,4849,7.075,N/A,Damp Heat,Connected
+Hold force,4850,6.975,N/A,Cyclical,Connected
+Hold force,4851,6.96,N/A,Cyclical,Connected
+Hold force,4852,7.2,N/A,Cyclical,Connected
+Hold force,4853,6.92,N/A,Cyclical,Connected
+Hold force,4854,6.88,N/A,Cyclical,Connected
+Hold force,4855,7.125,N/A,Cyclical,Connected
+Hold force,4856,6.925,N/A,Cyclical,Connected
+Hold force,4857,6.9,N/A,Cyclical,Connected
+Hold force,4858,7.04,N/A,Cyclical,Connected
+Hold force,4859,7.05,N/A,Cyclical,Connected
+Hold force,4860,7,N/A,Cyclical,Connected
+Hold force,4861,6.925,N/A,Cyclical,Connected
+Hold force,4862,6.9,N/A,Cyclical,Connected
+Hold force,4863,6.925,N/A,Cyclical,Connected
+Hold force,4864,7,N/A,Cyclical,Connected
+Hold force,4865,7.24,N/A,Cyclical,Connected
+Hold force,4866,7.16,N/A,Cyclical,Connected
+Hold force,4867,7.04,N/A,Cyclical,Connected
+Hold force,4868,7.12,N/A,Cyclical,Connected
+Hold force,4869,6.96,N/A,Cyclical,Connected
+Hold force,4870,6.95,N/A,Cyclical,Connected
+Hold force,4871,7,N/A,Cyclical,Connected
+Hold force,4872,7.175,N/A,Cyclical,Connected
+Hold force,4873,6.975,N/A,Cyclical,Connected
+Hold force,4874,6.92,N/A,Cyclical,Connected
+Hold force,4875,7.05,N/A,Cyclical,Connected
+Hold force,4876,7.04,N/A,Cyclical,Connected
+Hold force,4877,7.025,N/A,Cyclical,Connected
+Hold force,4878,7.075,N/A,Cyclical,Connected
+Hold force,4879,7.05,N/A,Cyclical,Connected
+Hold force,4880,7.15,N/A,Cyclical,Connected
+Hold force,4881,7.075,N/A,Cyclical,Connected
+Hold force,4882,7,N/A,Cyclical,Connected
+Hold force,4883,6.95,N/A,Cyclical,Connected
+Hold force,4884,6.975,N/A,Cyclical,Connected
+Hold force,4885,7.025,N/A,Vibration,Connected
+Hold force,4886,7.025,N/A,Vibration,Connected
+Hold force,4887,6.925,N/A,Vibration,Connected
+Hold force,4888,7.2,N/A,Vibration,Connected
+Hold force,4889,7.025,N/A,Vibration,Connected
+Hold force,4890,6.88,N/A,Vibration,Connected
+Hold force,4891,7,N/A,Vibration,Connected
+Hold force,4892,6.975,N/A,Vibration,Connected
+Hold force,4893,7,N/A,Vibration,Connected
+Hold force,4894,7.05,N/A,Vibration,Connected
+Hold force,4895,7.04,N/A,Vibration,Connected
+Hold force,4896,7.04,N/A,Vibration,Connected
+Hold force,4897,7.15,N/A,Vibration,Connected
+Hold force,4898,6.925,N/A,Vibration,Connected
+Hold force,4899,7.04,N/A,Vibration,Connected
+Hold force,4900,6.92,N/A,Vibration,Connected
+Hold force,4901,6.95,N/A,Vibration,Connected
+Hold force,4902,7.125,N/A,Vibration,Connected
+Hold force,4903,6.975,N/A,Vibration,Connected
+Hold force,4904,7.12,N/A,Vibration,Connected
+Hold force,4905,7.025,N/A,Vibration,Connected
+Hold force,4906,7.125,N/A,Vibration,Connected
+Hold force,4907,7.225,N/A,Vibration,Connected
+Hold force,4908,7.025,N/A,Vibration,Connected
+Hold force,4909,7.16,N/A,Vibration,Connected
+Hold force,4910,6.925,N/A,Vibration,Connected
+Hold force,4911,7,N/A,Vibration,Connected
+Hold force,4912,7.025,N/A,Vibration,Connected
+Hold force,4913,6.88,N/A,Vibration,Connected
+Hold force,4914,7.175,N/A,Vibration,Connected
+Hold force,4915,6.975,N/A,Vibration,Connected
+Hold force,4916,6.92,N/A,Vibration,Connected
+Hold force,4917,7,N/A,Vibration,Connected
+Hold force,4918,6.875,N/A,Vibration,Connected
+Hold force,4919,6.95,N/A,Vibration,Connected
+Hold force,4920,7.125,N/A,Vibration,Non-Connected
+Hold force,4921,7.2,N/A,Vibration,Non-Connected
+Hold force,4922,6.96,N/A,Vibration,Non-Connected
+Hold force,4923,7,N/A,Vibration,Non-Connected
+Hold force,4924,7.075,N/A,Vibration,Non-Connected
+Hold force,4925,7.025,N/A,Vibration,Non-Connected
+Hold force,4926,7,N/A,Vibration,Non-Connected
+Hold force,4927,7.1,N/A,Vibration,Non-Connected
+Hold force,4928,7.08,N/A,Vibration,Non-Connected
+Hold force,4929,6.975,N/A,Vibration,Non-Connected
+Hold force,4930,7.05,N/A,Vibration,Non-Connected
+Hold force,4931,7.08,N/A,Vibration,Non-Connected
+Hold force,4932,7.08,N/A,Vibration,Non-Connected
+Hold force,4933,7.025,N/A,Vibration,Non-Connected
+Hold force,4934,7,N/A,Vibration,Non-Connected
+Hold force,4935,6.975,N/A,Vibration,Non-Connected
+Hold force,4936,7.1,N/A,Vibration,Non-Connected
+Hold force,4937,7.05,N/A,Vibration,Non-Connected
+Hold force,4938,7.175,N/A,Vibration,Non-Connected
+Hold force,4939,7.075,N/A,Vibration,Non-Connected
+Hold force,4940,7.04,N/A,Transport,Connected
+Hold force,4941,7,N/A,Transport,Connected
+Hold force,4942,7.05,N/A,Transport,Connected
+Hold force,4943,7.15,N/A,Transport,Connected
+Hold force,4944,6.975,N/A,Transport,Connected
+Hold force,4945,7.16,N/A,Transport,Connected
+Hold force,4946,7.04,N/A,Transport,Connected
+Hold force,4947,7.1,N/A,Transport,Connected
+Hold force,4948,7.08,N/A,Transport,Connected
+Hold force,4949,7,N/A,Transport,Connected
+Hold force,4950,7.175,N/A,Transport,Connected
+Hold force,4951,7.05,N/A,Transport,Connected
+Hold force,4952,7.05,N/A,Transport,Connected
+Hold force,4953,7.025,N/A,Transport,Connected
+Hold force,4954,7.025,N/A,Transport,Connected
+Hold force,4955,7.04,N/A,Transport,Connected
+Hold force,4956,7.16,N/A,Transport,Connected
+Hold force,4957,7.15,N/A,Transport,Connected
+Hold force,4958,7,N/A,Transport,Connected
+Hold force,4959,6.975,N/A,Transport,Connected
+Hold force,4960,7.175,N/A,Transport,Connected
+Hold force,4961,7,N/A,Transport,Connected
+Hold force,4962,7,N/A,Transport,Connected
+Hold force,4963,7.175,N/A,Transport,Connected
+Hold force,4964,7.05,N/A,Transport,Connected
+Hold force,4965,6.9,N/A,Transport,Connected
+Hold force,4966,7.08,N/A,Transport,Connected
+Hold force,4967,7.1,N/A,Transport,Connected
+Hold force,4968,7.05,N/A,Transport,Connected
+Hold force,4969,7.025,N/A,Transport,Connected
+Hold force,4970,7.05,N/A,Transport,Connected
+Hold force,4971,7,N/A,Transport,Connected
+Hold force,4972,6.925,N/A,Transport,Connected
+Hold force,4973,6.925,N/A,Transport,Connected
+Hold force,4974,7.025,N/A,Transport,Connected
+Hold force,4975,7.32,N/A,Transport,Non-Connected
+Hold force,4976,7.125,N/A,Transport,Non-Connected
+Hold force,4977,7.35,N/A,Transport,Non-Connected
+Hold force,4978,7.15,N/A,Transport,Non-Connected
+Hold force,4979,7.08,N/A,Transport,Non-Connected
+Hold force,4980,7.12,N/A,Transport,Non-Connected
+Hold force,4981,7.225,N/A,Transport,Non-Connected
+Hold force,4982,6.925,N/A,Transport,Non-Connected
+Hold force,4983,7.2,N/A,Transport,Non-Connected
+Hold force,4984,7.24,N/A,Transport,Non-Connected
+Hold force,4985,7.225,N/A,Transport,Non-Connected
+Hold force,4986,7.2,N/A,Transport,Non-Connected
+Hold force,4987,7.025,N/A,Transport,Non-Connected
+Hold force,4988,7.15,N/A,Transport,Non-Connected
+Hold force,4989,7.16,N/A,Transport,Non-Connected
+Hold force,4990,7.175,N/A,Transport,Non-Connected
+Hold force,4991,7.15,N/A,Transport,Non-Connected
+Hold force,4992,7.275,N/A,Transport,Non-Connected
+Hold force,4993,7.075,N/A,Transport,Non-Connected
+Hold force,4994,7.075,N/A,Transport,Non-Connected
+Hold force,4995,6.925,N/A,Fluid Leakage,Connected
+Hold force,4996,6.95,N/A,Fluid Leakage,Connected
+Hold force,4997,7.2,N/A,Fluid Leakage,Connected
+Hold force,4998,6.9,N/A,Fluid Leakage,Connected
+Hold force,4999,6.88,N/A,Fluid Leakage,Connected
+Hold force,5000,7,N/A,Fluid Leakage,Connected
+Hold force,5001,7.05,N/A,Fluid Leakage,Connected
+Hold force,5002,6.825,N/A,Fluid Leakage,Connected
+Hold force,5003,6.875,N/A,Fluid Leakage,Connected
+Hold force,5004,6.92,N/A,Fluid Leakage,Connected
+Hold force,5005,7.05,N/A,Fluid Leakage,Connected
+Hold force,5006,7.08,N/A,Fluid Leakage,Connected
+Hold force,5007,6.95,N/A,Fluid Leakage,Connected
+Hold force,5008,7.04,N/A,Fluid Leakage,Connected
+Hold force,5009,6.875,N/A,Fluid Leakage,Connected
+Hold force,5010,6.88,N/A,Fluid Leakage,Connected
+Hold force,5011,6.875,N/A,Fluid Leakage,Connected
+Hold force,5012,6.9,N/A,Fluid Leakage,Connected
+Hold force,5013,6.88,N/A,Fluid Leakage,Connected
+Hold force,5014,6.76,N/A,Fluid Leakage,Connected
+Hold force,5015,6.975,N/A,Fluid Leakage,Connected
+Hold force,5016,7.04,N/A,Fluid Leakage,Connected
+Hold force,5017,7,N/A,Fluid Leakage,Connected
+Hold force,5018,6.925,N/A,Fluid Leakage,Connected
+Hold force,5019,6.96,N/A,Fluid Leakage,Connected
+Hold force,5020,6.96,N/A,Fluid Leakage,Connected
+Hold force,5021,7,N/A,Fluid Leakage,Connected
+Hold force,5022,7.025,N/A,Fluid Leakage,Connected
+Hold force,5023,6.92,N/A,Fluid Leakage,Connected
+Hold force,5024,7,N/A,Fluid Leakage,Connected
+Hold force,5025,7.12,N/A,Fluid Leakage,Connected
+Hold force,5026,7.125,N/A,Fluid Leakage,Connected
+Hold force,5027,7.08,N/A,Fluid Leakage,Connected
+Hold force,5028,6.92,N/A,Fluid Leakage,Connected
+Hold force,5029,6.92,N/A,Fluid Leakage,Connected
+Hold force,5030,7.16,N/A,Accelerated Aged,Connected
+Hold force,5031,7.3,N/A,Accelerated Aged,Connected
+Hold force,5032,7.2,N/A,Accelerated Aged,Connected
+Hold force,5033,7.075,N/A,Accelerated Aged,Connected
+Hold force,5034,7.225,N/A,Accelerated Aged,Connected
+Hold force,5035,7.24,N/A,Accelerated Aged,Connected
+Hold force,5036,7.24,N/A,Accelerated Aged,Connected
+Hold force,5037,7.025,N/A,Accelerated Aged,Connected
+Hold force,5038,7.125,N/A,Accelerated Aged,Connected
+Hold force,5039,7.025,N/A,Accelerated Aged,Connected
+Hold force,5040,7.08,N/A,Accelerated Aged,Connected
+Hold force,5041,7.325,N/A,Accelerated Aged,Connected
+Hold force,5042,7.325,N/A,Accelerated Aged,Connected
+Hold force,5043,7.3,N/A,Accelerated Aged,Connected
+Hold force,5044,7,N/A,Accelerated Aged,Connected
+Hold force,5045,7,N/A,Accelerated Aged,Connected
+Hold force,5046,7,N/A,Accelerated Aged,Connected
+Hold force,5047,7.28,N/A,Accelerated Aged,Connected
+Hold force,5048,7.325,N/A,Accelerated Aged,Connected
+Hold force,5049,7.08,N/A,Accelerated Aged,Connected
+Hold force,5050,7.12,N/A,Accelerated Aged,Connected
+Hold force,5051,7.12,N/A,Accelerated Aged,Connected
+Hold force,5052,7.075,N/A,Accelerated Aged,Connected
+Hold force,5053,7.075,N/A,Accelerated Aged,Connected
+Hold force,5054,7.15,N/A,Accelerated Aged,Connected
+Hold force,5055,7.1,N/A,Accelerated Aged,Connected
+Hold force,5056,7.2,N/A,Accelerated Aged,Connected
+Hold force,5057,7.125,N/A,Accelerated Aged,Connected
+Hold force,5058,7.175,N/A,Accelerated Aged,Connected
+Hold force,5059,6.88,N/A,Accelerated Aged,Connected
+Hold force,5060,7,N/A,Accelerated Aged,Connected
+Hold force,5061,7.08,N/A,Accelerated Aged,Connected
+Hold force,5062,7.08,N/A,Accelerated Aged,Connected
+Hold force,5063,7.2,N/A,Accelerated Aged,Connected
+Hold force,5064,6.925,N/A,Accelerated Aged,Connected
+Hold force,5065,7.16,N/A,Accelerated Aged,Connected
+Hold force,5066,7.12,N/A,Accelerated Aged,Connected
+Hold force,5067,7.1,N/A,Accelerated Aged,Connected
+Hold force,5068,7,N/A,Accelerated Aged,Connected
+Hold force,5069,7.125,N/A,Accelerated Aged,Connected
+Hold force,5070,7.175,N/A,Accelerated Aged,Connected
+Hold force,5071,7.15,N/A,Accelerated Aged,Connected
+Hold force,5072,7.12,N/A,Accelerated Aged,Connected
+Hold force,5073,7.2,N/A,Accelerated Aged,Connected
+Hold force,5074,7.1,N/A,Accelerated Aged,Connected
+Hold force,5075,7.225,N/A,Accelerated Aged,Connected
+Hold force,5076,7.15,N/A,Accelerated Aged,Connected
+Hold force,5077,7.175,N/A,Accelerated Aged,Connected
+Hold force,5078,7.16,N/A,Accelerated Aged,Connected
+Hold force,5079,7.075,N/A,Accelerated Aged,Connected
+Hold force,5080,7,N/A,Accelerated Aged,Connected
+Hold force,5081,7.05,N/A,Accelerated Aged,Connected
+Hold force,5082,7.125,N/A,Accelerated Aged,Connected
+Hold force,5083,7.16,N/A,Accelerated Aged,Connected
+Hold force,5084,7.1,N/A,Accelerated Aged,Connected
+Hold force,5085,7.05,N/A,Accelerated Aged,Connected
+Hold force,5086,7.05,N/A,Accelerated Aged,Connected
+Hold force,5087,7.05,N/A,Accelerated Aged,Connected
+Hold force,5088,7,N/A,Accelerated Aged,Connected
+Hold force,5089,6.96,N/A,Accelerated Aged,Connected
+Hold force,5090,6.975,N/A,Accelerated Aged,Connected
+Hold force,5091,7.15,N/A,Accelerated Aged,Connected
+Hold force,5092,7.075,N/A,Accelerated Aged,Connected
+Hold force,5093,7.05,N/A,Accelerated Aged,Connected
+Hold force,5094,7.04,N/A,Accelerated Aged,Connected
+Hold force,5095,7.25,N/A,Accelerated Aged,Connected
+Hold force,5096,7.075,N/A,Accelerated Aged,Connected
+Hold force,5097,7.175,N/A,Accelerated Aged,Connected
+Hold force,5098,7.12,N/A,Accelerated Aged,Connected
+Hold force,5099,7.05,N/A,Accelerated Aged,Connected
+Hold force,5100,7.04,N/A,Accelerated Aged,Connected
+Hold force,5101,7.05,N/A,Accelerated Aged,Connected
+Hold force,5102,7.12,N/A,Accelerated Aged,Connected
+Hold force,5103,6.925,N/A,Accelerated Aged,Connected
+Hold force,5104,7,N/A,Accelerated Aged,Connected
+Hold force,5105,7.1,N/A,Accelerated Aged,Connected
+Hold force,5106,7.08,N/A,Accelerated Aged,Connected
+Hold force,5107,6.975,N/A,Accelerated Aged,Connected
+Hold force,5108,7.1,N/A,Accelerated Aged,Connected
+Hold force,5109,7.15,N/A,Accelerated Aged,Connected
+Hold force,5110,7.04,N/A,Accelerated Aged,Connected
+Hold force,5111,7,N/A,Accelerated Aged,Connected
+Hold force,5112,7,N/A,Accelerated Aged,Connected
+Hold force,5113,6.975,N/A,Accelerated Aged,Connected
+Hold force,5114,7.05,N/A,Accelerated Aged,Connected
+Hold force,5115,6.96,N/A,Accelerated Aged,Connected
+Hold force,5116,7.04,N/A,Accelerated Aged,Connected
+Hold force,5117,7,N/A,Accelerated Aged,Connected
+Hold force,5118,7.04,N/A,Accelerated Aged,Connected
+Hold force,5119,7.025,N/A,Accelerated Aged,Connected
+Hold force,5120,7.05,N/A,Accelerated Aged,Connected
+Hold force,5121,6.95,N/A,Accelerated Aged,Connected
+Hold force,5122,7.025,N/A,Accelerated Aged,Connected
+Hold force,5123,6.925,N/A,Accelerated Aged,Connected
+Hold force,5124,6.975,N/A,Accelerated Aged,Connected
+Hold force,5125,6.96,N/A,Accelerated Aged,Connected
+Hold force,5126,7.04,N/A,Accelerated Aged,Connected
+Hold force,5127,6.975,N/A,Accelerated Aged,Connected
+Hold force,5128,7,N/A,Accelerated Aged,Connected
+Hold force,5129,6.9,N/A,Accelerated Aged,Connected
+Hold force,5130,7,N/A,Accelerated Aged,Connected
+Hold force,5131,6.96,N/A,Accelerated Aged,Connected
+Hold force,5132,7,N/A,Accelerated Aged,Connected
+Hold force,5133,7.04,N/A,Accelerated Aged,Connected
+Hold force,5134,6.925,N/A,Accelerated Aged,Connected
+Hold force,5135,7.025,N/A,Accelerated Aged,Connected
+Hold force,5136,6.95,N/A,Accelerated Aged,Connected
+Hold force,5137,7.1,N/A,Accelerated Aged,Connected
+Hold force,5138,6.8,N/A,Accelerated Aged,Connected
+Hold force,5139,6.95,N/A,Accelerated Aged,Connected
+Hold force,5140,7,N/A,Accelerated Aged,Connected
+Hold force,5141,6.95,N/A,Accelerated Aged,Connected
+Hold force,5142,6.875,N/A,Accelerated Aged,Connected
+Hold force,5143,7.025,N/A,Accelerated Aged,Connected
+Hold force,5144,6.95,N/A,Accelerated Aged,Connected
+Hold force,5145,6.975,N/A,Accelerated Aged,Connected
+Hold force,5146,6.95,N/A,Accelerated Aged,Connected
+Hold force,5147,6.925,N/A,Accelerated Aged,Connected
+Hold force,5148,6.975,N/A,Accelerated Aged,Connected
+Hold force,5149,6.925,N/A,Accelerated Aged,Connected
+Hold force,5150,6.825,N/A,Accelerated Aged,Connected
+Hold force,5151,6.85,N/A,Accelerated Aged,Connected
+Hold force,5152,6.95,N/A,Accelerated Aged,Connected
+Hold force,5153,6.925,N/A,Accelerated Aged,Connected
+Hold force,5154,6.95,N/A,Accelerated Aged,Connected
+Hold force,5155,6.925,N/A,Accelerated Aged,Connected
+Hold force,5156,6.85,N/A,Accelerated Aged,Connected
+Hold force,5157,6.925,N/A,Accelerated Aged,Connected
+Hold force,5158,6.825,N/A,Accelerated Aged,Connected
+Hold force,5159,6.9,N/A,Accelerated Aged,Connected
+Hold force,5160,6.775,N/A,Accelerated Aged,Connected
+Hold force,5161,6.925,N/A,Accelerated Aged,Connected
+Hold force,5162,6.9,N/A,Accelerated Aged,Connected
+Hold force,5163,6.875,N/A,Accelerated Aged,Connected
+Hold force,5164,6.825,N/A,Accelerated Aged,Connected
+Hold force,5165,6.9,N/A,Accelerated Aged,Connected
+Hold force,5166,6.84,N/A,Accelerated Aged,Connected
+Hold force,5167,6.85,N/A,Accelerated Aged,Connected
+Hold force,5168,6.875,N/A,Accelerated Aged,Connected
+Hold force,5169,6.84,N/A,Accelerated Aged,Connected
